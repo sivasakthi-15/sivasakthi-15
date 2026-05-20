@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Sivasakthi%20Ramasamy&fontSize=70&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Student%20|%20Full-Stack%20Developer&descAlignY=55&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Sivasakthi%20Ramasamy&fontSize=60&animation=fadeIn&fontAlignY=38&desc=AI%20&%20Data%20Science%20Student%20|%20Full-Stack%20Developer&descAlignY=55&descAlign=62" alt="Header" />
 </div>
 
 ### 👩‍💻 The Architecture
