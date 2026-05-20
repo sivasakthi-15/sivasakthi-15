@@ -8,15 +8,14 @@ I am an Aspiring Machine Learning Engineer and Full-Stack Developer currently st
 * 💻 Building full-stack projects like **CareerLens AI** to solve real-world problems.
 
 ### 🛠️ My Tech Stack
-**Languages:** Python, C, JavaScript, HTML/CSS
-**Frameworks:** Django, Bootstrap
-**Data & AI:** NLP, Data Analytics, Jupyter Notebooks
-**Security:** Network Scanning, Packet Manipulation
+* **Languages:** Python, C, JavaScript, HTML/CSS
+* **Frameworks:** Django, Bootstrap
+* **Data & AI:** NLP, Data Analytics, Jupyter Notebooks
+* **Security:** Network Scanning, Packet Manipulation
 
 ### 📊 My GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sivasakthi-15&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivasakthi-15&layout=compact&theme=tokyonight" width="48%" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sivasakthi-15&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sivasakthi-15&layout=compact&theme=tokyonight)
 
 📫 **Let's Connect:** [Find me on LinkedIn](https://www.linkedin.com/in/sivasakthi-ramasamy)
