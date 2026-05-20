@@ -1,21 +1,20 @@
-# Hi there, I'm Sivasakthi! 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Sivasakthi%20Ramasamy&fontSize=70&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Student%20|%20Full-Stack%20Developer&descAlignY=55&descAlign=62" />
+</div>
 
-I am an Aspiring Machine Learning Engineer and Full-Stack Developer currently studying at Anna University. I specialize in building intelligent systems, data analytics, and secure web applications. I love bridging the gap between complex AI algorithms and user-friendly software.
+### 👩‍💻 The Architecture
 
-### 🚀 What I'm Doing
-* 🧠 Developing AI-powered applications using **Python** and **Django**.
-* 🛡️ Expanding my knowledge in **Ethical Hacking**, network security, and distributed systems.
-* 💻 Building full-stack projects like **CareerLens AI** to solve real-world problems.
-
-### 🛠️ My Tech Stack
-* **Languages:** Python, C, JavaScript, HTML/CSS
-* **Frameworks:** Django, Bootstrap
-* **Data & AI:** NLP, Data Analytics, Jupyter Notebooks
-* **Security:** Network Scanning, Packet Manipulation
-
-### 📊 My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sivasakthi-15&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sivasakthi-15&layout=compact&theme=tokyonight)
-
-📫 **Let's Connect:** [Find me on LinkedIn](https://www.linkedin.com/in/sivasakthi-ramasamy)
+```python
+class SivasakthiProfile:
+    def __init__(self):
+        self.location = "Coimbatore, Tamil Nadu, India"
+        self.education = "B.Tech in AI & Data Science @ KGISL Institute of Technology (GPA: 8.94/10)"
+        self.roles = ["Aspiring ML Engineer", "Data Analyst", "Full-Stack Developer"]
+        self.internships = [
+            "Data Analyst Intern @ Elevate Labs",
+            "Full Stack Intern @ Appin Technology",
+            "Data Science Intern @ SkillCraft Technology"
+        ]
+        
+    def execute_mission(self):
+        return "Bridging complex AI algorithms with user-friendly, scalable software architecture."
