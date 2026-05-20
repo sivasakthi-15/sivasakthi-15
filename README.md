@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Sivasakthi! 👋
 
-<!--
-**sivasakthi-15/sivasakthi-15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an Aspiring Machine Learning Engineer and Full-Stack Developer currently studying at Anna University. I specialize in building intelligent systems, data analytics, and secure web applications. I love bridging the gap between complex AI algorithms and user-friendly software.
 
-Here are some ideas to get you started:
+### 🚀 What I'm Doing
+* 🧠 Developing AI-powered applications using **Python** and **Django**.
+* 🛡️ Expanding my knowledge in **Ethical Hacking**, network security, and distributed systems.
+* 💻 Building full-stack projects like **CareerLens AI** to solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Tech Stack
+**Languages:** Python, C, JavaScript, HTML/CSS
+**Frameworks:** Django, Bootstrap
+**Data & AI:** NLP, Data Analytics, Jupyter Notebooks
+**Security:** Network Scanning, Packet Manipulation
+
+### 📊 My GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sivasakthi-15&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivasakthi-15&layout=compact&theme=tokyonight" width="48%" />
+</div>
+
+📫 **Let's Connect:** [Find me on LinkedIn](https://www.linkedin.com/in/sivasakthi-ramasamy)
