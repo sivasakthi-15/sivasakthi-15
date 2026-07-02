@@ -7,7 +7,7 @@ Hi 👋, I'm <span style="color:#4F8EF7;">Sivasakthi Ramasamy</span>
 </h1>
 
 <h3 align="center">
-AI & Data Science Student | Full Stack Developer | AI Enthusiast
+AI & Data Science Student | Data Analyst | AI Enthusiast | Full Stack Developer
 </h3>
 
 <p align="center">
@@ -28,11 +28,11 @@ AI & Data Science Student | Full Stack Developer | AI Enthusiast
 
 🌱 Currently Learning
 
-- React
-- Django
-- PostgreSQL
-- Machine Learning
-- Docker
+- Java (DSA & OOP)
+- Python
+- SQL
+- Machine Learning Fundamentals
+- Git & GitHub
 
 🎯 Career Goal
 
@@ -66,7 +66,7 @@ Features
 
 ---
 
-## 🤖 AUTOMUS
+## 🤖 AUTONOMOUS CAR
 
 Industry 4.0 Autonomous Vehicle System
 
@@ -162,7 +162,7 @@ TensorFlow • Scikit-Learn • Pandas • NumPy • OpenCV
 
 🏅 Data Analyst Intern
 
-🏅 Full Stack Intern
+🏅 Full Stack AI Intern
 
 🏅 Data Science Intern
 
@@ -190,7 +190,7 @@ TensorFlow • Scikit-Learn • Pandas • NumPy • OpenCV
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:sivasakthiramasamy03@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
