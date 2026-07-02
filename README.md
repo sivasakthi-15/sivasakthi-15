@@ -129,3 +129,145 @@ Full Stack Developer
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=120&section=footer"/>
 
 </p>
+
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+<h3 align="center">⭐ CareerLens AI</h3>
+
+<p align="center">
+
+AI-powered Resume Analyzer with ATS Score, Skill Gap Analysis and Career Recommendations.
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/sivasakthi-15/CareerLensAI">
+
+<img src="https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge"/>
+
+</a>
+
+</p>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">🛒 POS Billing System</h3>
+
+<p align="center">
+
+Modern Billing Software for Electrical & Pipes Shop with GST Billing and Invoice Generation.
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/sivasakthi-15">
+
+<img src="https://img.shields.io/badge/View_Project-10B981?style=for-the-badge"/>
+
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+<h3 align="center">🚗 AUTOMUS</h3>
+
+<p align="center">
+
+Industry 4.0 Autonomous Vehicle System using ROS2, CARLA Simulation and AI Navigation.
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/>
+
+<img src="https://img.shields.io/badge/AI-6C63FF?style=flat-square"/>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/sivasakthi-15">
+
+<img src="https://img.shields.io/badge/View_Project-3B82F6?style=for-the-badge"/>
+
+</a>
+
+</p>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">💻 LeetCode Solutions</h3>
+
+<p align="center">
+
+Daily LeetCode solutions with clean code, explanations and optimized approaches.
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Java-E76F00?style=flat-square&logo=openjdk"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/sivasakthi-15/leetcode-solutions">
+
+<img src="https://img.shields.io/badge/View_Project-F59E0B?style=for-the-badge"/>
+
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
