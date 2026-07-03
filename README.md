@@ -1,111 +1,258 @@
-# 👋 Hi there, I'm **Sivasakthi Ramasamy**
+<!-- ========================================================= -->
+<!--                  GITHUB PORTFOLIO PRO v1                  -->
+<!--                Designed for Sivasakthi R                  -->
+<!-- ========================================================= -->
 
-### AI & Data Science Student • Aspiring Software Engineer • Problem Solver
+<div align="center">
 
-```{=html}
-<p align="center">
-```
-`<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Learning+Java+%26+Python;Building+Real-World+Projects;AI+%7C+Software+Development;Always+Learning+Something+New+🚀" />`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<a href="https://github.com/sivasakthi-15">`{=html}`<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">`{=html}`</a>`{=html}
-`<a href="https://www.linkedin.com/in/sivasakthi-ramasamy">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">`{=html}`</a>`{=html}
-`<a href="mailto:YOUR_EMAIL@gmail.com">`{=html}`<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail">`{=html}`</a>`{=html}
-`<a href="https://leetcode.com/">`{=html}`<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode">`{=html}`</a>`{=html}
-```{=html}
-</p>
-```
+<img src="./assets/banner.svg" width="100%" />
 
-------------------------------------------------------------------------
+<br><br>
 
-# 👩‍💻 About Me
+# 👋 Hi, I'm Sivasakthi Ramasamy
 
--   🎓 B.Tech Artificial Intelligence & Data Science
--   🏫 KGiSL Institute of Technology
--   📍 Coimbatore, Tamil Nadu
--   ☕ Currently Learning: Java, Python, SQL
--   🤖 Interested in AI, Machine Learning and Software Development
--   🚀 Building real-world projects
+### AI & Data Science Student • Software Developer • Problem Solver
 
-------------------------------------------------------------------------
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Learning+Java+%26+Python;Building+Real-World+Software;AI+%7C+Machine+Learning;Always+Learning+🚀" />
+
+<br>
+
+<a href="https://github.com/sivasakthi-15">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sivasakthi-ramasamy">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<br><br>
+
+![](https://komarev.com/ghpvc/?username=sivasakthi-15&style=for-the-badge&color=blue)
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+<table>
+<tr>
+
+<td width="60%">
+
+## 🚀 Who Am I?
+
+🎓 B.Tech Artificial Intelligence & Data Science
+
+🏫 KGiSL Institute of Technology
+
+📍 Tamil Nadu, India
+
+💙 Passionate about building software that solves real-world problems.
+
+---
+
+## 🌱 Currently Learning
+
+- ☕ Java
+- 🐍 Python
+- 🗄 SQL
+- 🧩 Data Structures & Algorithms
+- 🤖 Machine Learning
+
+---
+
+## 🎯 Current Goal
+
+Become a Software Engineer capable of building scalable AI-powered applications.
+
+</td>
+
+<td width="40%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sivasakthi-15&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+</td>
+
+</tr>
+</table>
+
+---
 
 # 🚀 Featured Projects
 
-  -------------------------------------------------------------------------------------------------------------
-  Project                Description                      Link
-  ---------------------- -------------------------------- -----------------------------------------------------
-  ⭐ CareerLens AI       AI Resume Analyzer with ATS &    Replace with repo link
-                         Skill Gap Analysis               
+<table>
 
-  🛒 POS Billing System  GST Billing Software for         Replace with repo link
-                         Electrical & Pipes Shop          
+<tr>
 
-  🚗 AUTOMUS             Autonomous Vehicle System using  Replace with repo link
-                         ROS2 & CARLA                     
+<td align="center" width="50%">
 
-  💻 LeetCode Solutions  Daily Java & Python LeetCode     https://github.com/sivasakthi-15/leetcode-solutions
-                         Solutions                        
-  -------------------------------------------------------------------------------------------------------------
+<img src="./assets/logos/careerlens.svg" width="90"/>
 
-------------------------------------------------------------------------
+## CareerLens AI
 
-# 🛠 Tech Stack
+AI-powered Resume Analyzer
 
-![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+ATS Score
 
-------------------------------------------------------------------------
+Career Recommendation
 
-# 📊 GitHub Stats
+Skill Gap Analysis
 
-```{=html}
-<p align="center">
-```
-`<img src="https://github-readme-stats.vercel.app/api?username=sivasakthi-15&show_icons=true&theme=tokyonight"/>`{=html}
-`<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivasakthi-15&layout=compact&theme=tokyonight"/>`{=html}
-```{=html}
+Python • Django
+
+<a href="https://github.com/sivasakthi-15/CareerLensAI">
+
+<img src="https://img.shields.io/badge/View_Project-3B82F6?style=for-the-badge"/>
+
+</a>
+
+</td>
+
+<td align="center" width="50%">
+
+<img src="./assets/logos/pos.svg" width="90"/>
+
+## POS Billing System
+
+GST Billing
+
+Invoice Printing
+
+Inventory
+
+Customer Management
+
+Node • MongoDB
+
+<a href="#">
+
+<img src="https://img.shields.io/badge/View_Project-10B981?style=for-the-badge"/>
+
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<img src="./assets/logos/automus.svg" width="90"/>
+
+## AUTOMUS
+
+Industry 4.0
+
+ROS2
+
+CARLA
+
+Swarm Intelligence
+
+Python
+
+<a href="#">
+
+<img src="https://img.shields.io/badge/View_Project-8B5CF6?style=for-the-badge"/>
+
+</a>
+
+</td>
+
+<td align="center">
+
+<img src="./assets/logos/leetcode.svg" width="90"/>
+
+## LeetCode
+
+Daily Practice
+
+Java
+
+Python
+
+Problem Solving
+
+DSA
+
+<a href="https://github.com/sivasakthi-15/leetcode-solutions">
+
+<img src="https://img.shields.io/badge/View_Project-F59E0B?style=for-the-badge"/>
+
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=js"/>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
 </p>
-```
-```{=html}
-<p align="center">
-```
-`<img src="https://streak-stats.demolab.com?user=sivasakthi-15&theme=tokyonight"/>`{=html}
-```{=html}
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
 </p>
-```
-```{=html}
+
+---
+
+# 📊 GitHub Analytics
+
 <p align="center">
-```
-`<img src="https://github-readme-activity-graph.vercel.app/graph?username=sivasakthi-15&theme=tokyo-night"/>`{=html}
-```{=html}
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sivasakthi-15&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivasakthi-15&layout=compact&theme=tokyonight"/>
+
 </p>
-```
 
-------------------------------------------------------------------------
+<p align="center">
 
-# 🏆 Current Focus
+<img src="https://streak-stats.demolab.com?user=sivasakthi-15&theme=tokyonight"/>
 
--   ☕ Learning Java (DSA & OOP)
--   🐍 Strengthening Python
--   💻 Daily LeetCode
--   🤖 AI Projects
--   🛒 POS Billing System
+</p>
 
-------------------------------------------------------------------------
+<p align="center">
 
-# 📫 Connect
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sivasakthi-15&theme=tokyo-night"/>
 
--   GitHub: https://github.com/sivasakthi-15
--   LinkedIn: https://linkedin.com/in/sivasakthi-ramasamy
--   Email: YOUR_EMAIL@gmail.com
+</p>
 
-------------------------------------------------------------------------
-
-> **Turning ideas into intelligent software.**
+---
