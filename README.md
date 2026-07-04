@@ -1,258 +1,76 @@
-<!-- ========================================================= -->
-<!--                  GITHUB PORTFOLIO PRO v1                  -->
-<!--                Designed for Sivasakthi R                  -->
-<!-- ========================================================= -->
-
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" />
+# ⚡ SYSTEM ACCESS: OPERATIONAL 
+### Translating Multi-Dimensional Data into High-Impact Software Solutions.
 
-<br><br>
-
-# 👋 Hi, I'm Sivasakthi Ramasamy
-
-### AI & Data Science Student • Software Developer • Problem Solver
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Learning+Java+%26+Python;Building+Real-World+Software;AI+%7C+Machine+Learning;Always+Learning+🚀" />
-
-<br>
-
-<a href="https://github.com/sivasakthi-15">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://linkedin.com/in/sivasakthi-ramasamy-b21ab2281" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:sivasakthiramasamy03@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-<a href="https://www.linkedin.com/in/sivasakthi-ramasamy">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<br/>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<br><br>
-
-![](https://komarev.com/ghpvc/?username=sivasakthi-15&style=for-the-badge&color=blue)
+**I don't just write algorithms—I build autonomous pipelines, train adaptive neural models, and engineer bulletproof backends.**
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 Core Diagnostics 
 
-<table>
-<tr>
+Most profiles are static. I treat my career like an evolving codebase. As a final-year AI & Data Science specialist at KGiSL Institute of Technology, I operate where deep technical execution meets real-world strategy.
 
-<td width="60%">
-
-## 🚀 Who Am I?
-
-🎓 B.Tech Artificial Intelligence & Data Science
-
-🏫 KGiSL Institute of Technology
-
-📍 Tamil Nadu, India
-
-💙 Passionate about building software that solves real-world problems.
+- 🎓 **Education:** B.Tech in Artificial Intelligence and Data Science (KGiSL Institute of Technology, Tamil Nadu)
+- 🎯 **Targets:** Software Engineering | AI/ML Engineering | Full Stack Development
+- 🚀 **Current Iteration:** Deep-diving into **Java, Python, SQL, Machine Learning, and Advanced Data Structures & Algorithms (DSA)**.
 
 ---
 
-## 🌱 Currently Learning
+## 🛠️ The Technical Arsenal
 
-- ☕ Java
-- 🐍 Python
-- 🗄 SQL
-- 🧩 Data Structures & Algorithms
-- 🤖 Machine Learning
-
----
-
-## 🎯 Current Goal
-
-Become a Software Engineer capable of building scalable AI-powered applications.
-
-</td>
-
-<td width="40%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sivasakthi-15&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🚀 Featured Projects
-
-<table>
-
-<tr>
-
-<td align="center" width="50%">
-
-<img src="./assets/logos/careerlens.svg" width="90"/>
-
-## CareerLens AI
-
-AI-powered Resume Analyzer
-
-ATS Score
-
-Career Recommendation
-
-Skill Gap Analysis
-
-Python • Django
-
-<a href="https://github.com/sivasakthi-15/CareerLensAI">
-
-<img src="https://img.shields.io/badge/View_Project-3B82F6?style=for-the-badge"/>
-
-</a>
-
-</td>
-
-<td align="center" width="50%">
-
-<img src="./assets/logos/pos.svg" width="90"/>
-
-## POS Billing System
-
-GST Billing
-
-Invoice Printing
-
-Inventory
-
-Customer Management
-
-Node • MongoDB
-
-<a href="#">
-
-<img src="https://img.shields.io/badge/View_Project-10B981?style=for-the-badge"/>
-
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-<img src="./assets/logos/automus.svg" width="90"/>
-
-## AUTOMUS
-
-Industry 4.0
-
-ROS2
-
-CARLA
-
-Swarm Intelligence
-
-Python
-
-<a href="#">
-
-<img src="https://img.shields.io/badge/View_Project-8B5CF6?style=for-the-badge"/>
-
-</a>
-
-</td>
-
-<td align="center">
-
-<img src="./assets/logos/leetcode.svg" width="90"/>
-
-## LeetCode
-
-Daily Practice
-
-Java
-
-Python
-
-Problem Solving
-
-DSA
-
-<a href="https://github.com/sivasakthi-15/leetcode-solutions">
-
-<img src="https://img.shields.io/badge/View_Project-F59E0B?style=for-the-badge"/>
-
-</a>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 💻 Tech Stack
-
-### Languages
-
+### Languages & Logic
 <p>
-
-<img src="https://skillicons.dev/icons?i=java"/>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=js"/>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-### Tools
-
+### AI, Data Science & Backend
 <p>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
+  <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+## 🛸 Mission Logs (Top Architectures)
 
-<p align="center">
+| 🗲 Mission 01: CareerLens AI | 🗲 Mission 02: Cognitive Negotiator |
+| :--- | :--- |
+| **Type:** Resume Analysis Platform | **Type:** LLM-Driven Bargaining Architecture |
+| **Tech:** Django, Python, NLTK, Scikit-learn | **Tech:** Python, Generative AI (LLMs) |
+| **Outcome:** Engineered an on-device NLP processing block to perform advanced text sanitization and vector-space similarity scoring for automated ATS ranking. | **Outcome:** Built an autonomous negotiation pipeline that calculates real-time ZOPA and BATNA variables while tracking user sentiment. |
+| [View Architecture](#) | [View Architecture](#) |
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sivasakthi-15&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivasakthi-15&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=sivasakthi-15&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sivasakthi-15&theme=tokyo-night"/>
-
-</p>
+*(Note: Replace `#` with the actual links to your specific repositories).*
 
 ---
+
+## 📊 Performance Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sivasakthi-15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivasakthi-15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+---
+<div align="center">
+  <i>Architecting solutions in Tamil Nadu, India. </i>
+</div>
