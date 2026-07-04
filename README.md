@@ -1,10 +1,20 @@
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=1200&h=400&auto=format&fit=crop" width="100%" alt="Cyber Lab Background" />
   
-  <br/><br/>
+  <a href="https://github.com/sivasakthi-15">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=800&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=100&lines=⚡+SIVASAKTHI+RAMASAMY;AI+%26+Data+Science+Engineer;Software+Engineer;Full+Stack+Developer" alt="Typing SVG" />
+  </a>
   
-  <h1>⚡ SIVASAKTHI RAMASAMY</h1>
-  <h3>AI & Data Science | Software Engineer | AI/ML Engineer</h3>
+  <h3>Translating Multi-Dimensional Data into High-Impact Software Solutions.</h3>
+
+  <br/>
+
+  <a href="https://linkedin.com/in/sivasakthi-ramasamy-b21ab2281" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:sivasakthiramasamy03@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
 </div>
 
 ---
@@ -29,6 +39,7 @@ Most profiles are static templates. I treat my career like an evolving codebase.
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
       <img src="https://img.shields.io/badge/NLP-009688?style=for-the-badge&logo=openai&logoColor=white" />
       <br/>
+      <br/>
       <sub><b>Advantage:</b> Sanitizing raw, unstructured files and ensuring full mathematical integrity.</sub>
     </td>
     <td width="50%" valign="top">
@@ -37,6 +48,7 @@ Most profiles are static templates. I treat my career like an evolving codebase.
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
       <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+      <br/>
       <br/>
       <sub><b>Advantage:</b> Porting structural ideas into production-ready backends with low latency.</sub>
     </td>
@@ -48,6 +60,7 @@ Most profiles are static templates. I treat my career like an evolving codebase.
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
       <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
       <br/>
+      <br/>
       <sub><b>Advantage:</b> Bridging execution gaps between software nodes and hardware protocols.</sub>
     </td>
     <td width="50%" valign="top">
@@ -55,6 +68,7 @@ Most profiles are static templates. I treat my career like an evolving codebase.
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
       <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+      <br/>
       <br/>
       <sub><b>Advantage:</b> Synthesizing heavy analytical insights into actionable business steps.</sub>
     </td>
@@ -72,7 +86,7 @@ Most profiles are static templates. I treat my career like an evolving codebase.
       <p><b>Type:</b> Resume Analysis Platform</p>
       <p><b>Stack:</b> Django, Python, NLTK, Scikit-learn</p>
       <p><b>Outcome:</b> Engineered an NLP processing block using NLTK and Scikit-learn to perform advanced text sanitization, tokenization, and vector-space job similarity scoring.</p>
-      <a href="https://github.com/sivasakthi-15"><b>View Architecture →</b></a>
+      <a href="https://github.com/sivasakthi-15/CareerLensAI"><b>View Architecture →</b></a>
     </td>
     <td width="50%" valign="top">
       <h3>🗲 Mission Log 02: Cognitive AI Negotiator</h3>
@@ -108,9 +122,6 @@ Most profiles are static templates. I treat my career like an evolving codebase.
 
 ---
 
-## 📬 Terminal Uplink Port (Establish Connection)
-
 <div align="center">
-
-```text
-[SYSTEM ENDPOINT ACCESS AVAILABLE]
+  <i>Architecting solutions in Tamil Nadu, India.</i>
+</div>
