@@ -29,29 +29,174 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=8B5CF6&height=2&width=100%25" width="100%"/>
 
-## 👩‍💻 &nbsp;About Me
+<!--==================== ABOUT ME ====================-->
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGNzZXk0OGtxb3Z4cWxpcTl3cnl0emhyMGFwOHNsbmYzNmZwdm1hMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif" width="35">
+  About Me
+</h2>
+
+<p align="center">
+Building Intelligent Software That Solves Real-World Problems
+</p>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AI%20%26%20Data%20Science-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-4F46E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Full%20Stack-2563EB?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 👋 Hello, I'm **Sivasakthi Ramasamy**
+
+> **AI & Data Science Undergraduate** passionate about building intelligent applications that bridge Artificial Intelligence, Machine Learning, Computer Vision and Full Stack Development.
+
+I enjoy transforming ideas into products—from AI-powered career guidance platforms to autonomous driving systems and enterprise-grade billing software.
+
+---
+
+## 🚀 Currently Building
+
+🧠 **CareerLens AI**
+
+AI-powered Resume Analyzer & Career Recommendation Platform
+
+---
+
+🧾 **Sivasakthi POS Billing**
+
+Professional GST Billing & Inventory Management System
+
+---
+
+🤖 **AI Negotiation Agent**
+
+LLM-powered Intelligent Negotiation Assistant
+
+---
+
+🚗 **Autonomous Vehicles**
+
+ROS2 • CARLA • Computer Vision • Cooperative Driving
+
+---
+
+## 🎯 My Mission
+
+```text
+Think → Design → Build → Deploy → Learn → Repeat
+```
+
+I strive to create software that combines
+
+🤖 Artificial Intelligence
+
+⚡ Performance
+
+🎨 Great User Experience
+
+🌍 Real-world Impact
+
+---
+
+## ⚡ Quick Snapshot
 
 <table>
 <tr>
-<td width="60%" valign="top">
 
-I'm **Sivasakthi Ramasamy**, an AI & Data Science undergraduate who builds intelligent, real-world software at the intersection of **Machine Learning, Computer Vision, and Full Stack Development**. I enjoy turning research-grade ideas into working products — from resume-intelligence platforms to autonomous driving stacks.
+<td align="center">
 
-```python
-class Sivasakthi:
-    def __init__(self):
-        self.degree     = "B.Tech — AI & Data Science"
-        self.college    = "KGiSL Institute of Technology"
-        self.location   = "Tamil Nadu, India"
-        self.interests  = ["AI", "ML", "Computer Vision", "Full Stack Dev"]
-        self.status     = "🟢 Open to Internships & Collaborations"
+🎓
 
-    def objective(self):
-        return "Turning ideas into intelligent impact — one model, one app at a time."
-```
+### Education
+
+B.Tech
+
+Artificial Intelligence
+
+&
+
+Data Science
 
 </td>
-<td width="40%" valign="top">
+
+<td align="center">
+
+🏫
+
+### College
+
+KGiSL Institute
+
+of Technology
+
+</td>
+
+<td align="center">
+
+📍
+
+### Location
+
+Tamil Nadu
+
+India
+
+</td>
+
+<td align="center">
+
+💼
+
+### Status
+
+Open to
+
+Internships
+
+Hackathons
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## ❤️ I Love Working With
+
+<div align="center">
+
+🤖 AI &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+🧠 Machine Learning &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+👁 Computer Vision &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+🌐 Full Stack &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+📊 Data Science &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+🚀 Innovation
+
+</div>
+
+---
+
+## 🌟 Developer Philosophy
+
+> **"Code with Purpose. Learn Continuously. Build Products that Matter."**
+
+<br>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=8B5CF6&center=true&vCenter=true&width=700&lines=AI+Engineer+in+Progress;Machine+Learning+Developer;Computer+Vision+Enthusiast;Full+Stack+Developer;Always+Building+Something+Awesome+🚀"/>
+
+</div>
+
+<hr>
 
 **🎓 Education**
 > B.Tech, Artificial Intelligence & Data Science
