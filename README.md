@@ -104,32 +104,6 @@ ROS2 • CARLA Simulator • Computer Vision
 
 ---
 
-# 🤝 Looking for Help With
-
-- Large Scale System Design
-- Cloud Deployment
-- MLOps
-- AI Optimization
-- Open Source Contributions
-
----
-
-# 💬 Ask Me About
-
-- Python
-- Machine Learning
-- Artificial Intelligence
-- Data Science
-- Django
-- React
-- MongoDB
-- ROS2
-- Git
-- GitHub
-- Full Stack Development
-
----
-
 # 🏆 Featured Projects
 
 ## 🚀 CareerLens AI
@@ -319,24 +293,6 @@ CARLA
 ![](https://github-profile-trophy.vercel.app/?username=sivasakthi-15&theme=tokyonight&margin-w=10)
 
 ---
-
-# 🎯 2026 Goals
-
-✅ Crack Product Based Company
-
-⬜ 500+ LeetCode Problems
-
-⬜ Contribute to Open Source
-
-⬜ Build AI SaaS Product
-
-⬜ Publish Research Project
-
-⬜ Win National Hackathon
-
-⬜ Master System Design
-
-⬜ Become AI Engineer
 
 ---
 
