@@ -110,7 +110,6 @@ class Sivasakthi:
 </table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=8B5CF6&height=2&width=100%25" width="100%"/>
-
 ## 🏆 &nbsp;Featured Projects
 
 <table width="100%">
@@ -118,58 +117,64 @@ class Sivasakthi:
 <td width="50%" valign="top">
 
 ### 🧠 CareerLens AI
-AI-powered resume analyzer delivering ATS scoring, NLP-driven feedback, and personalized career guidance.
+AI-powered resume analyzer delivering ATS scoring, NLP-driven feedback, personalized career guidance, and skill-gap analysis.
 
 `Python` `Django` `NLP`
 
-<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django"/> <img src="https://img.shields.io/badge/NLP-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django"/>
+<img src="https://img.shields.io/badge/NLP-8B5CF6?style=flat-square"/>
 
-[![GitHub]()
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/sivasakthi-15/CareerLensAI)
 
 </td>
 <td width="50%" valign="top">
 
-### 🚗 AUTOMUS
-Autonomous driving research platform built with ROS2 and CARLA simulator for real-time perception and control.
+### 🚗 Autonomous Vehicles with V2V Communication
+Research-driven autonomous driving platform implementing cooperative driving, ROS2 integration, perception, and vehicle-to-vehicle communication.
 
-`ROS2` `Computer Vision`
+`ROS2` `Computer Vision` `CARLA`
 
-<img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv"/> <img src="https://img.shields.io/badge/CARLA-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv"/>
+<img src="https://img.shields.io/badge/CARLA-8B5CF6?style=flat-square"/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)]([https://github.com/sivasakthi-15/AUTOMUS](https://github.com/Sanjay-Mathivanan/Autonomous-Vehicles-with-V2V-Communication-for-Cooperative-Driving))
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/Sanjay-Mathivanan/Autonomous-Vehicles-with-V2V-Communication-for-Cooperative-Driving)
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
 ### 🧾 Sivasakthi POS Billing System
-Multi-shop GST-compliant billing system with real-time inventory, invoicing, and analytics dashboards.
+A professional multi-shop GST billing application featuring invoice generation, thermal printing, customer management, contractor billing, and MongoDB-powered backend.
 
 `React` `Node.js` `MongoDB`
 
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb"/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/sivasakthi-15/Sivasakthi_Electricals)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/sivasakthi-15/Sivasakthi_Electricals)
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 Cognitive AI Negotiator
-LLM-powered negotiation engine that simulates human-like bargaining strategies using local model inference.
+### 🤖 AI Negotiation Agent
+An intelligent negotiation assistant powered by LLMs capable of simulating strategic bargaining conversations using local AI models.
 
-`Python` `Ollama`
+`Python` `Ollama` `LLM`
 
-<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square"/> <img src="https://img.shields.io/badge/LLM-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/LLM-8B5CF6?style=flat-square"/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)]([https://github.com/sivasakthi-15/AI-Negotiator](https://github.com/Sanjay-Mathivanan/AI-NEGOTIATION-AGENT))
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/Sanjay-Mathivanan/AI-NEGOTIATION-AGENT)
 
 </td>
 </tr>
 </table>
-
-
-## 💻 &nbsp;Tech Arsenal
 
 <div align="center">
 
