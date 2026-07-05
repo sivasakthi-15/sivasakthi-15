@@ -29,7 +29,7 @@
 <br/>
 
 <!-- ============================================================ -->
-<!--  SECTION 01 — IDENTITY MATRIX  (About, reimagined as an OS)  -->
+<!--  SECTION 01 — IDENTITY MATRIX                                -->
 <!-- ============================================================ -->
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=90&section=header&text=IDENTITY%20MATRIX&fontSize=38&fontColor=A78BFA&fontAlignY=60&desc=%3E%20whoami&descAlignY=80&descSize=16&descColor=6366F1"/>
@@ -59,8 +59,11 @@
 }
 ```
 
-<div align="center">
+<details>
+<summary><b>🔍 Click to expand full profile card</b></summary>
+<br/>
 
+<div align="center">
 <table>
 <tr>
 <td align="center" width="25%">
@@ -94,10 +97,12 @@
 
 </div>
 
+</details>
+
 <br/>
 
 <!-- ============================================================ -->
-<!--  SECTION 02 — MISSION CONTROL  (Current Focus, as dashboard) -->
+<!--  SECTION 02 — MISSION CONTROL                                -->
 <!-- ============================================================ -->
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=90&section=header&text=MISSION%20CONTROL&fontSize=38&fontColor=06B6D4&fontAlignY=60&desc=%3E%20current_focus.log&descAlignY=80&descSize=16&descColor=6366F1"/>
@@ -144,7 +149,7 @@
 <br/>
 
 <!-- ============================================================ -->
-<!--  SECTION 03 — TECH ARSENAL  (Grouped, panel-style)           -->
+<!--  SECTION 03 — TECH ARSENAL                                   -->
 <!-- ============================================================ -->
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=90&section=header&text=TECH%20ARSENAL&fontSize=38&fontColor=A78BFA&fontAlignY=60&desc=%3E%20ls%20-la%20/skills&descAlignY=80&descSize=16&descColor=6366F1"/>
@@ -206,59 +211,95 @@
 <br/>
 
 <!-- ============================================================ -->
-<!--  SECTION 04 — FEATURED PROJECTS  (Product cards)              -->
+<!--  SECTION 04 — FEATURED PROJECTS (click-to-expand cards)      -->
 <!-- ============================================================ -->
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=90&section=header&text=FEATURED%20BUILDS&fontSize=38&fontColor=06B6D4&fontAlignY=60&desc=%3E%20git%20log%20--featured&descAlignY=80&descSize=16&descColor=6366F1"/>
 
-<table width="100%">
+<details open>
+<summary><h3>🧠 &nbsp;CareerLens AI &nbsp;<sub>— click to expand</sub></h3></summary>
+<br/>
 
-<tr>
-<td width="50%" valign="top">
-<h3>🧠 &nbsp;CareerLens AI</h3>
-<p>An AI-powered resume intelligence platform that delivers real-time ATS scoring, NLP-driven feedback, and personalized career-path recommendations for job seekers.</p>
+An AI-powered resume intelligence platform that delivers real-time ATS scoring, NLP-driven feedback, and personalized career-path recommendations for job seekers.
 
-<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django"/> <img src="https://img.shields.io/badge/NLP-A78BFA?style=flat-square"/>
+**Highlights:** resume parsing pipeline · ATS scoring engine · NLP-based skill-gap detection · career recommendation module
 
-<a href="https://github.com/sivasakthi-15/CareerLensAI"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</td>
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django) ![NLP](https://img.shields.io/badge/NLP-A78BFA?style=flat-square)
 
-<td width="50%" valign="top">
-<h3>🚗 &nbsp;Autonomous Vehicles · V2V Comms</h3>
-<p>A research-grade autonomous driving platform built on ROS2 and CARLA, implementing real-time perception, cooperative driving logic, and vehicle-to-vehicle communication.</p>
+[![GitHub](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sivasakthi-15/CareerLensAI)
 
-<img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv"/> <img src="https://img.shields.io/badge/CARLA-A78BFA?style=flat-square"/>
+</details>
 
-<a href="https://github.com/Sanjay-Mathivanan/Autonomous-Vehicles-with-V2V-Communication-for-Cooperative-Driving"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</td>
-</tr>
+<details>
+<summary><h3>🚗 &nbsp;Autonomous Vehicles · V2V Comms &nbsp;<sub>— click to expand</sub></h3></summary>
+<br/>
 
-<tr>
-<td width="50%" valign="top">
-<h3>🧾 &nbsp;Sivasakthi POS Billing System</h3>
-<p>A production-ready, multi-shop GST billing engine with invoice generation, thermal-printer support, contractor billing, and a MongoDB-backed inventory pipeline.</p>
+A research-grade autonomous driving platform built on ROS2 and CARLA, implementing real-time perception, cooperative driving logic, and vehicle-to-vehicle communication.
 
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb"/>
+**Highlights:** ROS2 node architecture · CARLA simulation environment · real-time perception pipeline · V2V messaging layer
 
-<a href="https://github.com/sivasakthi-15/Sivasakthi_Electricals"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</td>
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv) ![CARLA](https://img.shields.io/badge/CARLA-A78BFA?style=flat-square)
 
-<td width="50%" valign="top">
-<h3>🤖 &nbsp;AI Negotiation Agent</h3>
-<p>An LLM-powered negotiation engine that simulates strategic, human-like bargaining conversations, running entirely on local model inference via Ollama.</p>
+[![GitHub](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanjay-Mathivanan/Autonomous-Vehicles-with-V2V-Communication-for-Cooperative-Driving)
 
-<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square"/> <img src="https://img.shields.io/badge/LLM-A78BFA?style=flat-square"/>
+</details>
 
-<a href="https://github.com/Sanjay-Mathivanan/AI-NEGOTIATION-AGENT"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</td>
-</tr>
+<details>
+<summary><h3>🧾 &nbsp;Sivasakthi POS Billing System &nbsp;<sub>— click to expand</sub></h3></summary>
+<br/>
 
-</table>
+A production-ready, multi-shop GST billing engine with invoice generation, thermal-printer support, contractor billing, and a MongoDB-backed inventory pipeline.
+
+**Highlights:** multi-shop architecture · GST-compliant invoicing · thermal-printer integration · real-time inventory sync
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb)
+
+[![GitHub](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sivasakthi-15/Sivasakthi_Electricals)
+
+</details>
+
+<details>
+<summary><h3>🤖 &nbsp;AI Negotiation Agent &nbsp;<sub>— click to expand</sub></h3></summary>
+<br/>
+
+An LLM-powered negotiation engine that simulates strategic, human-like bargaining conversations, running entirely on local model inference via Ollama.
+
+**Highlights:** local LLM inference · negotiation-strategy prompting · conversational agent design · zero cloud dependency
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square) ![LLM](https://img.shields.io/badge/LLM-A78BFA?style=flat-square)
+
+[![GitHub](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanjay-Mathivanan/AI-NEGOTIATION-AGENT)
+
+</details>
 
 <br/>
 
 <!-- ============================================================ -->
-<!--  SECTION 05 — GITHUB ANALYTICS                                -->
+<!--  SECTION 05 — LIVE ACTIVITY FEED (GitHub Action powered)     -->
+<!-- ============================================================ -->
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=90&section=header&text=LIVE%20FEED&fontSize=38&fontColor=A78BFA&fontAlignY=60&desc=%3E%20tail%20-f%20recent_activity.log&descAlignY=80&descSize=16&descColor=6366F1"/>
+
+<!--START_SECTION:activity-->
+<!-- This section auto-refreshes with your real recent GitHub activity once the workflow below runs. -->
+<!--END_SECTION:activity-->
+
+<br/>
+
+<!-- ============================================================ -->
+<!--  SECTION 06 — WAKATIME CODING ACTIVITY (GitHub Action)       -->
+<!-- ============================================================ -->
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=90&section=header&text=CODING%20ACTIVITY&fontSize=38&fontColor=06B6D4&fontAlignY=60&desc=%3E%20wakatime%20--weekly&descAlignY=80&descSize=16&descColor=6366F1"/>
+
+<!--START_SECTION:waka-->
+<!-- This section auto-refreshes with your real WakaTime coding-time chart once the workflow below runs. -->
+<!--END_SECTION:waka-->
+
+<br/>
+
+<!-- ============================================================ -->
+<!--  SECTION 07 — GITHUB ANALYTICS                                -->
 <!-- ============================================================ -->
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=90&section=header&text=SYSTEM%20ANALYTICS&fontSize=38&fontColor=A78BFA&fontAlignY=60&desc=%3E%20fetch%20--stats%20--live&descAlignY=80&descSize=16&descColor=6366F1"/>
@@ -285,61 +326,49 @@
 <br/>
 
 <!-- ============================================================ -->
-<!--  SECTION 06 — ACHIEVEMENTS SHOWCASE                           -->
+<!--  SECTION 08 — ACHIEVEMENTS (accordion)                        -->
 <!-- ============================================================ -->
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=90&section=header&text=TROPHY%20CASE&fontSize=38&fontColor=06B6D4&fontAlignY=60&desc=%3E%20cat%20achievements.md&descAlignY=80&descSize=16&descColor=6366F1"/>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<details>
+<summary><b>🏆 Click to view achievements</b></summary>
+<br/>
 
-**🏆 &nbsp;Achievement Title**
-<sub>Brief description of the accomplishment goes here.</sub>
-
-</td>
-<td width="50%" valign="top">
-
-**🏆 &nbsp;Achievement Title**
-<sub>Brief description of the accomplishment goes here.</sub>
-
-</td>
-</tr>
-</table>
+| Achievement | Description |
+|---|---|
+| 🏆 Achievement Title | Brief description of the accomplishment |
+| 🏆 Achievement Title | Brief description of the accomplishment |
 
 <sub>📝 Share your hackathon wins, competition ranks, or notable recognitions and they'll be slotted in here — none were provided yet, so these are placeholders.</sub>
+
+</details>
 
 <br/>
 
 <!-- ============================================================ -->
-<!--  SECTION 07 — CERTIFICATION VAULT                             -->
+<!--  SECTION 09 — CERTIFICATIONS (accordion)                      -->
 <!-- ============================================================ -->
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=90&section=header&text=CREDENTIAL%20VAULT&fontSize=38&fontColor=A78BFA&fontAlignY=60&desc=%3E%20cat%20certifications.md&descAlignY=80&descSize=16&descColor=6366F1"/>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<details>
+<summary><b>🏅 Click to view certifications</b></summary>
+<br/>
 
-**🏅 &nbsp;Certification Title**
-<sub>Issuing Organization · Year</sub>
-
-</td>
-<td width="50%" valign="top">
-
-**🏅 &nbsp;Certification Title**
-<sub>Issuing Organization · Year</sub>
-
-</td>
-</tr>
-</table>
+| Certification | Issuer | Year |
+|---|---|---|
+| Certification Title | Issuing Organization | Year |
+| Certification Title | Issuing Organization | Year |
 
 <sub>📝 Share your certification names, issuers, and years and they'll be slotted in here — none were provided yet, so these are placeholders.</sub>
+
+</details>
 
 <br/>
 
 <!-- ============================================================ -->
-<!--  SECTION 08 — CODING ARENA                                    -->
+<!--  SECTION 10 — CODING ARENA                                    -->
 <!-- ============================================================ -->
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=90&section=header&text=CODING%20ARENA&fontSize=38&fontColor=06B6D4&fontAlignY=60&desc=%3E%20ping%20competitive-profiles&descAlignY=80&descSize=16&descColor=6366F1"/>
@@ -358,7 +387,7 @@
 <br/>
 
 <!-- ============================================================ -->
-<!--  SECTION 09 — CONTACT CTA                                     -->
+<!--  SECTION 11 — CONTACT CTA                                     -->
 <!-- ============================================================ -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:06B6D4&height=200&section=header&text=LET'S%20BUILD%20SOMETHING%20INTELLIGENT&fontSize=30&fontColor=ffffff&fontAlignY=40&desc=Open%20to%20Internships%20%C2%B7%20Collaborations%20%C2%B7%20Hackathons&descAlignY=60&descSize=16&descColor=E0E7FF&animation=fadeIn"/>
