@@ -17,110 +17,58 @@
 
 </div>
 
----
+<h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
 
-## 🧬 Core Diagnostics 
+###
 
-Most profiles are static templates. I treat my career like an evolving codebase. As a final-year AI & Data Science specialist at KGiSL Institute of Technology, I operate where deep technical execution meets real-world strategy.
-
-* **🎓 Status:** Final Year B.Tech in Artificial Intelligence & Data Science
-* **🎯 Targets:** Software Engineering | AI/ML Engineering | Full Stack Development
-* **🚀 Active Focus:** Advanced Data Structures & Algorithms, Java, Python, SQL, and Machine Learning
-
----
-
-## 🛠️ The Technical Arsenal
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 AI Core & Insights</h3>
-      <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-      <img src="https://img.shields.io/badge/NLP-009688?style=for-the-badge&logo=openai&logoColor=white" />
-      <br/>
-      <br/>
-      <sub><b>Advantage:</b> Sanitizing raw, unstructured files and ensuring full mathematical integrity.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚡ Backend Development</h3>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-      <br/>
-      <br/>
-      <sub><b>Advantage:</b> Porting structural ideas into production-ready backends with low latency.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 Autonomous Systems</h3>
-      <img src="https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-      <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-      <br/>
-      <br/>
-      <sub><b>Advantage:</b> Bridging execution gaps between software nodes and hardware protocols.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📊 Operations Matrix</h3>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-      <br/>
-      <br/>
-      <sub><b>Advantage:</b> Synthesizing heavy analytical insights into actionable business steps.</sub>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🛸 Mission Logs (Featured Systems Architecture)
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🗲 Mission Log 01: CareerLens AI</h3>
-      <p><b>Type:</b> Resume Analysis Platform</p>
-      <p><b>Stack:</b> Django, Python, NLTK, Scikit-learn</p>
-      <p><b>Outcome:</b> Engineered an NLP processing block using NLTK and Scikit-learn to perform advanced text sanitization, tokenization, and vector-space job similarity scoring.</p>
-      <a href="https://github.com/sivasakthi-15/CareerLensAI"><b>View Architecture →</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🗲 Mission Log 02: Cognitive AI Negotiator</h3>
-      <p><b>Type:</b> LLM-Driven Bargaining Engine</p>
-      <p><b>Stack:</b> Python, Generative AI (LLMs), JSON</p>
-      <p><b>Outcome:</b> Built an autonomous negotiation pipeline script using Python and Generative AI LLMs to calculate real-time ZOPA and BATNA variables while tracking user sentiment.</p>
-      <a href="https://github.com/sivasakthi-15"><b>View Architecture →</b></a>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 Live System Metrics (Real-Time Upgrades)
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=sivasakthi-15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub Stats" height="180px"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivasakthi-15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="180px"/>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sivasakthi-15&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="100%"/>
-      </td>
-    </tr>
-  </table>
+<div data-importer="techs" align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
 </div>
 
----
+###
+
+<div data-importer="socials" align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+</div>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
 
 <div align="center">
   <i>Architecting solutions in Tamil Nadu, India.</i>
