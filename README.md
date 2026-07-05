@@ -124,7 +124,7 @@ AI-powered resume analyzer delivering ATS scoring, NLP-driven feedback, and pers
 
 <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django"/> <img src="https://img.shields.io/badge/NLP-8B5CF6?style=flat-square"/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/sivasakthi-15/CareerLensAI)
+[![GitHub]()
 
 </td>
 <td width="50%" valign="top">
@@ -136,7 +136,7 @@ Autonomous driving research platform built with ROS2 and CARLA simulator for rea
 
 <img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv"/> <img src="https://img.shields.io/badge/CARLA-8B5CF6?style=flat-square"/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/sivasakthi-15/AUTOMUS)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)]([https://github.com/sivasakthi-15/AUTOMUS](https://github.com/Sanjay-Mathivanan/Autonomous-Vehicles-with-V2V-Communication-for-Cooperative-Driving))
 
 </td>
 </tr>
@@ -150,7 +150,7 @@ Multi-shop GST-compliant billing system with real-time inventory, invoicing, and
 
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb"/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/sivasakthi-15/POS-Billing-System)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/sivasakthi-15/Sivasakthi_Electricals)
 
 </td>
 <td width="50%" valign="top">
@@ -162,15 +162,12 @@ LLM-powered negotiation engine that simulates human-like bargaining strategies u
 
 <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square"/> <img src="https://img.shields.io/badge/LLM-8B5CF6?style=flat-square"/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/sivasakthi-15/AI-Negotiator)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)]([https://github.com/sivasakthi-15/AI-Negotiator](https://github.com/Sanjay-Mathivanan/AI-NEGOTIATION-AGENT))
 
 </td>
 </tr>
 </table>
 
-> 💡 Live demo links will be added here once each project is deployed.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8B5CF6&height=2&width=100%25" width="100%"/>
 
 ## 💻 &nbsp;Tech Arsenal
 
