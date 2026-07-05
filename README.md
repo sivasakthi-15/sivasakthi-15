@@ -1,31 +1,389 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>- CareerLens AI – AI-powered Resume Analyzer & Career Guidance Platform<br>- Sivasakthi POS Billing System (React, Node.js, MongoDB)<br>- AUTOMUS – Swarm Intelligence & Autonomous Driving using ROS2 + CARLA<br><br>👯 I’m looking to collaborate on<br>- Open Source AI/ML Projects<br>- Full Stack Web Applications<br>- Computer Vision & Autonomous Systems<br>- Hackathon Projects<br><br>🤝 I’m looking for help with<br>- MLOps & Cloud Deployment<br>- Large Scale System Design<br>- Open Source Contributions<br>- AI Model Optimization<br><br>🌱 I’m currently learning<br>- Advanced Machine Learning<br>- Deep Learning & Computer Vision<br>- System Design<br>- PostgreSQL & Docker<br>- AWS & Cloud Technologies<br><br>💬 Ask me about<br>- Python<br>- Machine Learning<br>- Data Science<br>- Django<br>- React<br>- MongoDB<br>- ROS2<br>- Git & GitHub<br>- AI Projects<br>- Full Stack Development
+<!-- ===================================================== -->
+<!--                    GITHUB PROFILE README               -->
+<!-- ===================================================== -->
 
-
-## 🌐 Socials:<p align="left">
-  <a href="https://www.linkedin.com/in/sivasakthi-ramasamy">
-    <img src="https://img.shields.io/badge/LinkedIn-Sivasakthi%20Ramasamy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:sivasakthiramasamy03@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<p align="center">
+  <img src="YOUR_BANNER_URL" alt="Banner" width="100%" />
 </p>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=sivasakthi-15&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=sivasakthi-15&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sivasakthi-15&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<h1 align="center">Hi 👋, I'm Sivasakthi R</h1>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sivasakthi-15&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+<h3 align="center">
+AI & Data Science Engineer • Full Stack Developer • Machine Learning Enthusiast
+</h3>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+Building intelligent software that solves real-world problems using AI, Machine Learning and Modern Web Technologies.
+</p>
 
+<p align="center">
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sivasakthi-ramasamy">
+<img src="https://img.shields.io/badge/LinkedIn-Sivasakthi%20Ramasamy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sivasakthiramasamy03@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=sivasakthi-15&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🚀 About Me
+
+🎓 B.Tech Artificial Intelligence & Data Science Student
+
+🏫 KGiSL Institute of Technology
+
+💡 Passionate about solving real-world problems using Artificial Intelligence and Full Stack Development.
+
+❤️ I enjoy building products that combine
+
+- Artificial Intelligence
+- Machine Learning
+- Computer Vision
+- Web Development
+- Autonomous Systems
+
+---
+
+# 🔭 Currently Working On
+
+### 🚀 CareerLens AI
+
+AI Resume Analyzer + Career Guidance Platform
+
+Tech Stack
+
+Python • Django • Machine Learning • NLP
+
+---
+
+### 🧾 POS Billing System
+
+Complete GST Billing Software
+
+React • Node.js • MongoDB
+
+---
+
+### 🚗 AUTOMUS
+
+Swarm Intelligence & Autonomous Driving
+
+ROS2 • CARLA Simulator • Computer Vision
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced Machine Learning
+- Deep Learning
+- Computer Vision
+- System Design
+- PostgreSQL
+- Docker
+- AWS
+- MLOps
+
+---
+
+# 👯 Looking to Collaborate
+
+- Open Source
+- AI Projects
+- Machine Learning
+- Full Stack Applications
+- Hackathons
+- Research Projects
+
+---
+
+# 🤝 Looking for Help With
+
+- Large Scale System Design
+- Cloud Deployment
+- MLOps
+- AI Optimization
+- Open Source Contributions
+
+---
+
+# 💬 Ask Me About
+
+- Python
+- Machine Learning
+- Artificial Intelligence
+- Data Science
+- Django
+- React
+- MongoDB
+- ROS2
+- Git
+- GitHub
+- Full Stack Development
+
+---
+
+# 🏆 Featured Projects
+
+## 🚀 CareerLens AI
+
+AI-powered Resume Analyzer with ATS Score, Resume Parsing, Career Recommendations and Skill Gap Analysis.
+
+---
+
+## 🚗 AUTOMUS
+
+Industry 4.0 Autonomous Driving Platform using
+
+ROS2
+
+CARLA
+
+Swarm Intelligence
+
+Digital Twin
+
+---
+
+## 🧾 POS Billing System
+
+Professional GST Billing Software
+
+React
+
+Node
+
+MongoDB
+
+Thermal Printer
+
+Multi Shop Support
+
+---
+
+# 💻 Tech Stack
+
+## 👨‍💻 Languages
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+
+![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge)
+
+---
+
+## 🌐 Frontend
+
+HTML
+
+CSS
+
+Bootstrap
+
+React
+
+Tailwind CSS
+
+---
+
+## ⚙ Backend
+
+Node.js
+
+Express.js
+
+Django
+
+REST API
+
+---
+
+## 🗄 Database
+
+MongoDB
+
+PostgreSQL
+
+MySQL
+
+SQLite
+
+---
+
+## 🤖 AI / ML
+
+TensorFlow
+
+Scikit Learn
+
+Pandas
+
+NumPy
+
+Matplotlib
+
+OpenCV
+
+---
+
+## 🛠 Tools
+
+Git
+
+GitHub
+
+VS Code
+
+Docker
+
+Postman
+
+Power BI
+
+Arduino
+
+Raspberry Pi
+
+ROS2
+
+CARLA
+
+---
+
+# 🌐 Coding Profiles
+
+<p align="center">
+
+<a href="https://github.com/sivasakthi-15">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank"/>
+</a>
+
+<a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME">
+<img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME">
+<img src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sivasakthi-15&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivasakthi-15&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=sivasakthi-15&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+[![Sivasakthi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sivasakthi-15&theme=tokyo-night)](https://github.com/sivasakthi-15)
+
+---
+
+# 🏆 GitHub Achievements
+
+![](https://github-profile-trophy.vercel.app/?username=sivasakthi-15&theme=tokyonight&margin-w=10)
+
+---
+
+# 🎯 2026 Goals
+
+✅ Crack Product Based Company
+
+⬜ 500+ LeetCode Problems
+
+⬜ Contribute to Open Source
+
+⬜ Build AI SaaS Product
+
+⬜ Publish Research Project
+
+⬜ Win National Hackathon
+
+⬜ Master System Design
+
+⬜ Become AI Engineer
+
+---
+
+# 📜 Certifications
+
+🏅 Coursera
+
+🏅 SoloLearn
+
+🏅 NCC B & C Certificate
+
+🏅 Data Science Internship
+
+🏅 Full Stack Internship
+
+🏅 AI & ML Certifications
+
+---
+
+# 📬 Connect With Me
+
+📧 Email
+
+**sivasakthiramasamy03@gmail.com**
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/sivasakthi-ramasamy
+
+🌐 Portfolio
+
+YOUR_PORTFOLIO_URL
+
+---
+
+<p align="center">
+
+![](https://komarev.com/ghpvc/?username=sivasakthi-15&style=for-the-badge&color=blueviolet)
+
+</p>
+
+---
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile ⭐
+
+Let's build something impactful together.
+
+</h3>
