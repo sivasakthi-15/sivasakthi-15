@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&labelColor=0D0D14"/></a>&nbsp;<a href="YOUR_RESUME_LINK"><img src="https://img.shields.io/badge/Resume-6366F1?style=for-the-badge&labelColor=0D0D14"/></a>&nbsp;<a href="https://www.linkedin.com/in/sivasakthi-ramasamy-b21ab2281"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0D14"/></a>&nbsp;<a href="mailto:sivasakthiramasamy03@gmail.com"><img src="https://img.shields.io/badge/Email-06B6D4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0D14"/></a>
+<a href="https://drive.google.com/file/d/1Ko5FJ6vCSGX8_utgGcIUm-rOQa2tkU2z/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-6366F1?style=for-the-badge&labelColor=0D0D14"/></a>&nbsp;<a href="https://www.linkedin.com/in/sivasakthi-ramasamy-b21ab2281"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0D14"/></a>&nbsp;<a href="mailto:sivasakthiramasamy03@gmail.com"><img src="https://img.shields.io/badge/Email-06B6D4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0D14"/></a>
 
 <br/><br/>
 
@@ -24,9 +24,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=slant&color=0:8B5CF6,50:6366F1,100:06B6D4&height=4&width=100%25"/>
-
-<br/>
+<hr/>
 
 <!-- ============================================================ -->
 <!--  ABOUT                                                        -->
@@ -283,12 +281,6 @@ A negotiation engine powered by locally-hosted LLMs, simulating strategic, human
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sivasakthi-15&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=06B6D4&line=A78BFA&point=ffffff" width="95%"/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sivasakthi-15/sivasakthi-15/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sivasakthi-15/sivasakthi-15/output/github-contribution-grid-snake.svg">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/sivasakthi-15/sivasakthi-15/output/github-contribution-grid-snake.svg" width="95%">
-</picture>
-
 <img src="https://github-profile-trophy.vercel.app/?username=sivasakthi-15&theme=tokyonight&no-frame=true&margin-w=15&column=7"/>
 
 </div>
@@ -324,9 +316,11 @@ AI Negotiation Agent   ████████████░░░░░░░
 
 | Achievement | Description |
 |---|---|
-| Achievement Title | Brief description of the accomplishment |
-| Achievement Title | Brief description of the accomplishment |
-
+| 🏅 Built Smart POS Billing System | Developed a full-stack POS application with GST billing, inventory management, customer management, analytics, and reporting. |
+| 🤖 Developed CareerLens AI | Created an AI-powered Resume Analyzer with ATS scoring, skill gap analysis, and career recommendations. |
+| 💻 Active LeetCode Problem Solver | Consistently solving Data Structures & Algorithms problems to strengthen problem-solving skills. |
+| 🚀 Built Multiple Full Stack Projects | Designed and developed scalable web applications using React, Node.js, Express.js, MongoDB, and Python. |
+| 🌟 Open Source Learner | Continuously improving through GitHub projects, hackathons, and modern software development practices. |
 <sub>No achievements were provided yet — replace these rows with hackathon wins, competition ranks, or other recognitions.</sub>
 
 </details>
@@ -345,8 +339,17 @@ AI Negotiation Agent   ████████████░░░░░░░
 
 | Certificate | Issuer | Year |
 |---|---|---|
-| Certificate Title | Issuing Organization | Year |
-| Certificate Title | Issuing Organization | Year |
+| Data Analyst Internship Certificate | Elevate Labs | 2025 |
+| Full Stack Development Internship | Appin Technology | 2025 |
+| Data Science Internship | SkillCraft Technology | 2025 |
+| HTML Certificate | SoloLearn | 2025 |
+| Python Certificate | SoloLearn | 2025 |
+| SQL Certificate | SoloLearn | 2025 |
+| Java Certificate | SoloLearn | 2025 |
+| JavaScript Certificate | SoloLearn | 2025 |
+| Multiple AI, ML & Data Science Certificates (50+) | Coursera | 2024–2026 |
+| NCC 'B' Certificate | National Cadet Corps (NCC) | 2024 |
+| NCC 'C' Certificate | National Cadet Corps (NCC) | 2025 |
 
 <sub>No certificates were provided yet — replace these rows with your actual credentials.</sub>
 
@@ -362,10 +365,10 @@ AI Negotiation Agent   ████████████░░░░░░░
 
 <div align="center">
 
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0D0D14"/></a>
-<a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0D0D14"/></a>
-<a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0D0D14"/></a>
-<a href="https://auth.geeksforgeeks.org/user/YOUR_GFG_USERNAME"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0D0D14"/></a>
+<a href="https://leetcode.com/Sakthi-15"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0D0D14"/></a>
+<a href="https://www.hackerrank.com/@sivasakthiramas1"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0D0D14"/></a>
+<a href="https://www.codechef.com/users/sivasakthi_15"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0D0D14"/></a>
+</a>
 
 <sub>Usernames are placeholders — swap in your actual handles.</sub>
 
@@ -390,7 +393,7 @@ AI Negotiation Agent   ████████████░░░░░░░
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=slant&color=0:06B6D4,50:6366F1,100:8B5CF6&height=4&width=100%25"/>
+<hr/>
 
 <div align="center">
 <br/>
