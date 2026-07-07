@@ -2,49 +2,399 @@
 
 <img src="Banner.png" width="100%" alt="Sivasakthi AI Banner"/>
 
- Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Sivasakthi Ramasamy
-============================================================================================================================================
+<br/>
 
-AI & Data Science Student | AI Engineer | Data Analyst Full Stack Developer | Problem Solver
---------------------------------------------------------------------------------------------
+<a href="https://readme-typing-svg.herokuapp.com">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=760&lines=AI+%26+Data+Science+Engineer;Machine+Learning+%7C+Computer+Vision;Full-Stack+Product+Builder;Turning+Ideas+Into+Intelligent+Systems" alt="Typing Animation" />
+</a>
 
-I'm a passionate B.Tech Artificial Intelligence & Data Science student with a strong interest in building AI-powered applications and scalable web solutions. I enjoy transforming real-world problems into practical software using Python, JavaScript, React, Node.js, Express, MongoDB, and machine learning.
+<br/>
 
-I have hands-on experience developing full-stack applications, including a POS Billing System and AI-powered Resume Analyzer, while continuously strengthening my knowledge in Data Structures & Algorithms, System Design, Cloud, and Artificial Intelligence.
+<img src="https://img.shields.io/badge/STATUS-ACTIVELY_BUILDING-A78BFA?style=for-the-badge&labelColor=0D0D14"/>&nbsp;<img src="https://img.shields.io/badge/AVAILABILITY-OPEN_TO_WORK-06B6D4?style=for-the-badge&labelColor=0D0D14"/>
 
-Currently, I'm focused on becoming a skilled AI Engineer by contributing to impactful projects, participating in hackathons, solving coding challenges, and learning modern technologies every day. I believe in writing clean, efficient code and creating solutions that deliver real value.
+<br/><br/>
 
-* 🌍  I'm based in Tamil Nadu, India
-* ✉️  You can contact me at [sivasakthiramasamy03@gmail.com](mailto:sivasakthiramasamy03@gmail.com)
-* 🚀  I'm currently working on [Smart POS Billing System with Analytics Dashboard](http://github.com/sivasakthi-15/Sivasakthi_Electricals)
-* 🧠  I'm currently learning Full Stack Development Artificial Intelligence & Machine Learning, Deep Learning, Computer Vision, System Design, and MLOps.
-* 👥  I'm looking to collaborate on AI/ML Projects Full Stack Web Applications Open Source Contributions Hackathon Projects Automation Tools Data Science Projects
-* 💬  Ask me about I don't just write code—I build intelligent systems that solve real-world problems. Driven by curiosity, powered by AI, and committed to turning ideas into impactful products.
+<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&labelColor=0D0D14"/></a>&nbsp;<a href="YOUR_RESUME_LINK"><img src="https://img.shields.io/badge/Resume-6366F1?style=for-the-badge&labelColor=0D0D14"/></a>&nbsp;<a href="https://www.linkedin.com/in/sivasakthi-ramasamy-b21ab2281"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0D14"/></a>&nbsp;<a href="mailto:sivasakthiramasamy03@gmail.com"><img src="https://img.shields.io/badge/Email-06B6D4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0D14"/></a>
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" alt="Raspberry Pi" title="Raspberry Pi" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" alt="Django" title="Django" width="36" height="36" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a>
-</p>
+<br/><br/>
 
-### Socials
+<img src="https://komarev.com/ghpvc/?username=sivasakthi-15&style=for-the-badge&color=A78BFA&labelColor=0D0D14&label=VISITORS"/>
 
-<p align="left"> <a href="https://www.github.com/sivasakthi-15" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/sivasakthi-ramasamy" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-<a href="https://www.github.com/sivasakthi-15" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/sivasakthi-15?logo=github&style=for-the-badge&color=0f172a&labelColor=1c1917" /></a>
-### Badges
+</div>
 
-<b>My GitHub Stats</b>
+<br/>
 
-<a href="http://www.github.com/sivasakthi-15"><img src="https://github-readme-stats.vercel.app/api?username=sivasakthi-15&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=000000&icon_color=0f172a&bg_color=1c1917&hide_border=true&show_icons=true" alt="sivasakthi-15's GitHub stats" /></a>
+<img src="https://capsule-render.vercel.app/api?type=slant&color=0:8B5CF6,50:6366F1,100:06B6D4&height=4&width=100%25"/>
 
-<a href="http://www.github.com/sivasakthi-15"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sivasakthi-15&stroke=000000&background=1c1917&ring=f97316&fire=f97316&currStreakNum=000000&currStreakLabel=f97316&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
+<br/>
 
-<a href="https://github.com/sivasakthi-15" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivasakthi-15&langs_count=10&title_color=f97316&text_color=000000&icon_color=0f172a&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<!-- ============================================================ -->
+<!--  ABOUT                                                        -->
+<!-- ============================================================ -->
 
-<b>Top Repositories</b>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=85&section=header&text=ABOUT&fontSize=34&fontColor=A78BFA&fontAlignY=55&desc=%3E%20profile.yaml&descAlignY=78&descSize=15&descColor=6366F1"/>
 
-<div width="100%" align="center"><a href="https://github.com/sivasakthi-15/CareerLensAI" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sivasakthi-15&repo=CareerLensAI&title_color=f97316&text_color=000000&icon_color=0f172a&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/sivasakthi-15/ Data_analyst_internship" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sivasakthi-15&repo= Data_analyst_internship&title_color=f97316&text_color=000000&icon_color=0f172a&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+Hello — I'm **Sivasakthi Ramasamy**, an AI & Data Science undergraduate building software at the intersection of machine learning, computer vision, and full-stack engineering. I work across the stack: training models, designing APIs, and shipping the interfaces people actually use. My focus is turning research-shaped ideas into products that hold up in the real world.
 
-<br /><br /><br /><br /><br />
+<br/>
 
-<div width="100%" align="center"><a href="https://github.com/sivasakthi-15/ SCT_DS_TASKS" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sivasakthi-15&repo= SCT_DS_TASKS&title_color=f97316&text_color=000000&icon_color=0f172a&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<table width="100%">
+<tr>
+<td align="center" width="33%">
+
+**Education**
+<sub>B.Tech, AI & Data Science<br/>KGiSL Institute of Technology</sub>
+
+</td>
+<td align="center" width="33%">
+
+**Location**
+<sub>Tamil Nadu, India</sub>
+
+</td>
+<td align="center" width="34%">
+
+**Status**
+<sub>Open to internships & collaboration</sub>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+
+**Core Interests**
+<sub>AI · ML · Computer Vision · Full-Stack</sub>
+
+</td>
+<td align="center" width="33%">
+
+**Objective**
+<sub>Building human-centered, production-grade AI systems</sub>
+
+</td>
+<td align="center" width="34%">
+
+**Currently**
+<sub>Shipping CareerLens AI & POS Billing</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--  CURRENT FOCUS                                                -->
+<!-- ============================================================ -->
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=85&section=header&text=CURRENT%20FOCUS&fontSize=34&fontColor=06B6D4&fontAlignY=55&desc=%3E%20roadmap.md&descAlignY=78&descSize=15&descColor=6366F1"/>
+
+<table width="100%">
+<tr>
+<th width="25%">Building</th>
+<th width="25%">Learning</th>
+<th width="25%">Exploring</th>
+<th width="25%">Open To</th>
+</tr>
+<tr>
+<td valign="top">
+
+![](https://img.shields.io/badge/CareerLens_AI-A78BFA?style=flat-square)<br/>
+![](https://img.shields.io/badge/POS_Billing-A78BFA?style=flat-square)<br/>
+![](https://img.shields.io/badge/Autonomous_Vehicles-A78BFA?style=flat-square)
+
+</td>
+<td valign="top">
+
+![](https://img.shields.io/badge/Deep_Learning-06B6D4?style=flat-square)<br/>
+![](https://img.shields.io/badge/Computer_Vision-06B6D4?style=flat-square)<br/>
+![](https://img.shields.io/badge/System_Design-06B6D4?style=flat-square)
+
+</td>
+<td valign="top">
+
+![](https://img.shields.io/badge/LLM_Agents-6366F1?style=flat-square)<br/>
+![](https://img.shields.io/badge/V2V_Communication-6366F1?style=flat-square)<br/>
+![](https://img.shields.io/badge/MLOps-6366F1?style=flat-square)
+
+</td>
+<td valign="top">
+
+![](https://img.shields.io/badge/Internships-8B5CF6?style=flat-square)<br/>
+![](https://img.shields.io/badge/Open_Source-8B5CF6?style=flat-square)<br/>
+![](https://img.shields.io/badge/Hackathons-8B5CF6?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--  FEATURED PROJECTS                                            -->
+<!-- ============================================================ -->
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=85&section=header&text=FEATURED%20PROJECTS&fontSize=34&fontColor=A78BFA&fontAlignY=55&desc=%3E%20repositories/&descAlignY=78&descSize=15&descColor=6366F1"/>
+
+<details open>
+<summary><b>CareerLens AI</b> — AI-powered resume intelligence platform</summary>
+<br/>
+
+An AI-powered resume analyzer that delivers real-time ATS scoring, NLP-driven feedback, and personalized career-path recommendations.
+
+**Highlights**
+- Resume parsing and structured extraction pipeline
+- ATS scoring engine benchmarked against real job descriptions
+- NLP-based skill-gap detection and career recommendations
+
+`Python` `Django` `NLP`
+
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sivasakthi-15/CareerLensAI)
+
+</details>
+
+<details>
+<summary><b>Sivasakthi POS Billing System</b> — Multi-shop GST billing platform</summary>
+<br/>
+
+A production-ready billing engine for multiple retail outlets, handling GST-compliant invoicing, thermal-printer output, and contractor billing on a MongoDB-backed inventory pipeline.
+
+**Highlights**
+- Multi-shop architecture with isolated inventory and billing state
+- GST-compliant invoice generation and thermal-printer integration
+- Real-time inventory sync across shop and contractor workflows
+
+`React` `Node.js` `MongoDB`
+
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sivasakthi-15/Sivasakthi_Electricals)
+
+</details>
+
+<details>
+<summary><b>Autonomous Vehicles · V2V Communication</b> — Cooperative driving research platform</summary>
+<br/>
+
+A research-grade autonomous driving platform built on ROS2 and CARLA, implementing real-time perception, cooperative driving logic, and vehicle-to-vehicle communication.
+
+**Highlights**
+- ROS2 node architecture for modular perception and control
+- CARLA-simulated environment for cooperative driving scenarios
+- Vehicle-to-vehicle messaging layer for coordinated maneuvers
+
+`ROS2` `OpenCV` `CARLA`
+
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanjay-Mathivanan/Autonomous-Vehicles-with-V2V-Communication-for-Cooperative-Driving)
+
+</details>
+
+<details>
+<summary><b>AI Negotiation Agent</b> — LLM-powered negotiation engine</summary>
+<br/>
+
+A negotiation engine powered by locally-hosted LLMs, simulating strategic, human-like bargaining conversations without any cloud dependency.
+
+**Highlights**
+- Local LLM inference pipeline via Ollama
+- Strategy-aware negotiation prompting
+- Conversational agent design tuned for realistic back-and-forth
+
+`Python` `Ollama` `LLM`
+
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanjay-Mathivanan/AI-NEGOTIATION-AGENT)
+
+</details>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--  TECH STACK                                                   -->
+<!-- ============================================================ -->
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=85&section=header&text=TECH%20STACK&fontSize=34&fontColor=06B6D4&fontAlignY=55&desc=%3E%20installed_packages&descAlignY=78&descSize=15&descColor=6366F1"/>
+
+<details open>
+<summary><b>Languages</b></summary>
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
+![SQL](https://img.shields.io/badge/SQL-A78BFA?style=for-the-badge)
+
+</details>
+
+<details>
+<summary><b>AI, Machine Learning & Computer Vision</b></summary>
+<br/>
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![Scikit](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
+![NLP](https://img.shields.io/badge/NLP-6366F1?style=for-the-badge)
+
+</details>
+
+<details>
+<summary><b>Frontend & Backend</b></summary>
+<br/>
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+
+</details>
+
+<details>
+<summary><b>Robotics & Simulation</b></summary>
+<br/>
+
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge)
+![CARLA](https://img.shields.io/badge/CARLA-A78BFA?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+
+</details>
+
+<details>
+<summary><b>Databases & Tools</b></summary>
+<br/>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+</details>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--  DEVELOPER DASHBOARD                                          -->
+<!-- ============================================================ -->
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=85&section=header&text=DEVELOPER%20DASHBOARD&fontSize=34&fontColor=A78BFA&fontAlignY=55&desc=%3E%20github.live&descAlignY=78&descSize=15&descColor=6366F1"/>
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sivasakthi-15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=06B6D4&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivasakthi-15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9"/>
+
+<img src="https://streak-stats.demolab.com?user=sivasakthi-15&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=06B6D4&currStreakLabel=A78BFA"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sivasakthi-15&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=06B6D4&line=A78BFA&point=ffffff" width="95%"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sivasakthi-15/sivasakthi-15/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sivasakthi-15/sivasakthi-15/output/github-contribution-grid-snake.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/sivasakthi-15/sivasakthi-15/output/github-contribution-grid-snake.svg" width="95%">
+</picture>
+
+<img src="https://github-profile-trophy.vercel.app/?username=sivasakthi-15&theme=tokyonight&no-frame=true&margin-w=15&column=7"/>
+
+</div>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--  CURRENTLY BUILDING                                           -->
+<!-- ============================================================ -->
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=85&section=header&text=CURRENTLY%20BUILDING&fontSize=34&fontColor=06B6D4&fontAlignY=55&desc=%3E%20progress.json&descAlignY=78&descSize=15&descColor=6366F1"/>
+
+```text
+CareerLens AI          ██████████████░░░░░░  70%
+Sivasakthi POS Billing ████████████████░░░░  80%
+Autonomous Vehicles    ██████████░░░░░░░░░░  50%
+AI Negotiation Agent   ████████████░░░░░░░░  60%
+```
+
+<sub>Progress values are self-reported estimates — update them as each build moves forward.</sub>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--  ACHIEVEMENTS                                                 -->
+<!-- ============================================================ -->
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=85&section=header&text=ACHIEVEMENTS&fontSize=34&fontColor=A78BFA&fontAlignY=55&desc=%3E%20credentials/achievements&descAlignY=78&descSize=15&descColor=6366F1"/>
+
+<details>
+<summary><b>View achievements</b></summary>
+<br/>
+
+| Achievement | Description |
+|---|---|
+| Achievement Title | Brief description of the accomplishment |
+| Achievement Title | Brief description of the accomplishment |
+
+<sub>No achievements were provided yet — replace these rows with hackathon wins, competition ranks, or other recognitions.</sub>
+
+</details>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--  CERTIFICATES                                                 -->
+<!-- ============================================================ -->
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=85&section=header&text=CERTIFICATES&fontSize=34&fontColor=06B6D4&fontAlignY=55&desc=%3E%20credentials/certificates&descAlignY=78&descSize=15&descColor=6366F1"/>
+
+<details>
+<summary><b>View certificates</b></summary>
+<br/>
+
+| Certificate | Issuer | Year |
+|---|---|---|
+| Certificate Title | Issuing Organization | Year |
+| Certificate Title | Issuing Organization | Year |
+
+<sub>No certificates were provided yet — replace these rows with your actual credentials.</sub>
+
+</details>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--  CODING PROFILES                                              -->
+<!-- ============================================================ -->
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=85&section=header&text=CODING%20PROFILES&fontSize=34&fontColor=A78BFA&fontAlignY=55&desc=%3E%20profiles.json&descAlignY=78&descSize=15&descColor=6366F1"/>
+
+<div align="center">
+
+<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0D0D14"/></a>
+<a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0D0D14"/></a>
+<a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0D0D14"/></a>
+<a href="https://auth.geeksforgeeks.org/user/YOUR_GFG_USERNAME"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0D0D14"/></a>
+
+<sub>Usernames are placeholders — swap in your actual handles.</sub>
+
+</div>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--  CONTACT                                                      -->
+<!-- ============================================================ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:06B6D4&height=190&section=header&text=Let's%20Build%20Something%20Intelligent&fontSize=28&fontColor=ffffff&fontAlignY=42&desc=%3E%20connect.sh&descAlignY=62&descSize=15&descColor=E0E7FF"/>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sivasakthi-ramasamy-b21ab2281"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0D14"/></a>
+<a href="mailto:sivasakthiramasamy03@gmail.com"><img src="https://img.shields.io/badge/Email-06B6D4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0D14"/></a>
+<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&labelColor=0D0D14"/></a>
+<a href="YOUR_RESUME_LINK"><img src="https://img.shields.io/badge/Resume-6366F1?style=for-the-badge&labelColor=0D0D14"/></a>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=slant&color=0:06B6D4,50:6366F1,100:8B5CF6&height=4&width=100%25"/>
+
+<div align="center">
+<br/>
+
+<sub>Built with Python, React, coffee, and curiosity.</sub>
+
 </div>
