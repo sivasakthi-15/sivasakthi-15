@@ -321,7 +321,7 @@ AI Negotiation Agent   ████████████░░░░░░░
 | 💻 Active LeetCode Problem Solver | Consistently solving Data Structures & Algorithms problems to strengthen problem-solving skills. |
 | 🚀 Built Multiple Full Stack Projects | Designed and developed scalable web applications using React, Node.js, Express.js, MongoDB, and Python. |
 | 🌟 Open Source Learner | Continuously improving through GitHub projects, hackathons, and modern software development practices. |
-<sub>No achievements were provided yet — replace these rows with hackathon wins, competition ranks, or other recognitions.</sub>
+
 
 </details>
 
@@ -351,7 +351,7 @@ AI Negotiation Agent   ████████████░░░░░░░
 | NCC 'B' Certificate | National Cadet Corps (NCC) | 2024 |
 | NCC 'C' Certificate | National Cadet Corps (NCC) | 2025 |
 
-<sub>No certificates were provided yet — replace these rows with your actual credentials.</sub>
+
 
 </details>
 
