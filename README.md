@@ -1,403 +1,789 @@
 <div align="center">
 
-<img src="Banner.png" width="100%" alt="Sivasakthi AI Banner"/>
+<img src="Banner.png" width="100%" alt="Sivasakthi Ramasamy Banner"/>
 
-<br/>
+<br>
 
-<a href="https://readme-typing-svg.herokuapp.com">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=760&lines=AI+%26+Data+Science+Engineer;Machine+Learning+%7C+Computer+Vision;Full-Stack+Product+Builder;Turning+Ideas+Into+Intelligent+Systems" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Sivasakthi+Ramasamy;AI+%26+Data+Science+Engineer;Full+Stack+Developer;Machine+Learning+%7C+Computer+Vision;Building+Intelligent+Products;Always+Learning+Something+New" alt="Typing SVG"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/AI%20Engineer-8B5CF6?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Open%20To%20Internships-06B6D4?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Actively%20Building-6366F1?style=for-the-badge&labelColor=0D1117"/>
+
+<br><br>
+
+<a href="https://drive.google.com/file/d/1Ko5FJ6vCSGX8_utgGcIUm-rOQa2tkU2z/view?usp=sharing">
+<img src="https://img.shields.io/badge/Resume-6366F1?style=for-the-badge&logo=readthedocs&logoColor=white"/>
 </a>
 
-<br/>
+<a href="https://www.linkedin.com/in/sivasakthi-ramasamy-b21ab2281">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<img src="https://img.shields.io/badge/STATUS-ACTIVELY_BUILDING-A78BFA?style=for-the-badge&labelColor=0D0D14"/>&nbsp;<img src="https://img.shields.io/badge/AVAILABILITY-OPEN_TO_WORK-06B6D4?style=for-the-badge&labelColor=0D0D14"/>
+<a href="mailto:sivasakthiramasamy03@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<br/><br/>
+<a href="https://github.com/sivasakthi-15">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<a href="https://drive.google.com/file/d/1Ko5FJ6vCSGX8_utgGcIUm-rOQa2tkU2z/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-6366F1?style=for-the-badge&labelColor=0D0D14"/></a>&nbsp;<a href="https://www.linkedin.com/in/sivasakthi-ramasamy-b21ab2281"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0D14"/></a>&nbsp;<a href="mailto:sivasakthiramasamy03@gmail.com"><img src="https://img.shields.io/badge/Email-06B6D4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0D14"/></a>
+<br><br>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=sivasakthi-15&style=for-the-badge&color=A78BFA&labelColor=0D0D14&label=VISITORS"/>
+<img src="https://komarev.com/ghpvc/?username=sivasakthi-15&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS"/>
 
 </div>
 
-<br/>
+---
 
-<hr/>
+# 👋 Hello, I'm Sivasakthi Ramasamy
 
-<!-- ============================================================ -->
-<!--  ABOUT                                                        -->
-<!-- ============================================================ -->
+### AI Engineer • Full Stack Developer • AI & Data Science Student
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=85&section=header&text=ABOUT&fontSize=34&fontColor=A78BFA&fontAlignY=55&desc=%3E%20profile.yaml&descAlignY=78&descSize=15&descColor=6366F1"/>
+I am a passionate **Artificial Intelligence & Data Science undergraduate** who enjoys transforming innovative ideas into intelligent software solutions.
 
-Hello — I'm **Sivasakthi Ramasamy**, an AI & Data Science undergraduate building software at the intersection of machine learning, computer vision, and full-stack engineering. I work across the stack: training models, designing APIs, and shipping the interfaces people actually use. My focus is turning research-shaped ideas into products that hold up in the real world.
+My interests span across **Artificial Intelligence, Machine Learning, Computer Vision, Full Stack Development, Backend Engineering, and Data Analytics**. I love building software that not only works but also solves real-world business problems.
 
-<br/>
+From developing **AI-powered applications** to designing **production-ready full stack systems**, I continuously learn modern technologies and apply them to impactful projects.
 
-<table width="100%">
-<tr>
-<td align="center" width="33%">
+> **"I don't just write code—I engineer intelligent software that creates real-world impact."**
 
-**Education**
-<sub>B.Tech, AI & Data Science<br/>KGiSL Institute of Technology</sub>
+---
 
-</td>
-<td align="center" width="33%">
-
-**Location**
-<sub>Tamil Nadu, India</sub>
-
-</td>
-<td align="center" width="34%">
-
-**Status**
-<sub>Open to internships & collaboration</sub>
-
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-
-**Core Interests**
-<sub>AI · ML · Computer Vision · Full-Stack</sub>
-
-</td>
-<td align="center" width="33%">
-
-**Objective**
-<sub>Building human-centered, production-grade AI systems</sub>
-
-</td>
-<td align="center" width="34%">
-
-**Currently**
-<sub>Shipping CareerLens AI & POS Billing</sub>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ============================================================ -->
-<!--  CURRENT FOCUS                                                -->
-<!-- ============================================================ -->
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=85&section=header&text=CURRENT%20FOCUS&fontSize=34&fontColor=06B6D4&fontAlignY=55&desc=%3E%20roadmap.md&descAlignY=78&descSize=15&descColor=6366F1"/>
-
-<table width="100%">
-<tr>
-<th width="25%">Building</th>
-<th width="25%">Learning</th>
-<th width="25%">Exploring</th>
-<th width="25%">Open To</th>
-</tr>
-<tr>
-<td valign="top">
-
-![](https://img.shields.io/badge/CareerLens_AI-A78BFA?style=flat-square)<br/>
-![](https://img.shields.io/badge/POS_Billing-A78BFA?style=flat-square)<br/>
-![](https://img.shields.io/badge/Autonomous_Vehicles-A78BFA?style=flat-square)
-
-</td>
-<td valign="top">
-
-![](https://img.shields.io/badge/Deep_Learning-06B6D4?style=flat-square)<br/>
-![](https://img.shields.io/badge/Computer_Vision-06B6D4?style=flat-square)<br/>
-![](https://img.shields.io/badge/System_Design-06B6D4?style=flat-square)
-
-</td>
-<td valign="top">
-
-![](https://img.shields.io/badge/LLM_Agents-6366F1?style=flat-square)<br/>
-![](https://img.shields.io/badge/V2V_Communication-6366F1?style=flat-square)<br/>
-![](https://img.shields.io/badge/MLOps-6366F1?style=flat-square)
-
-</td>
-<td valign="top">
-
-![](https://img.shields.io/badge/Internships-8B5CF6?style=flat-square)<br/>
-![](https://img.shields.io/badge/Open_Source-8B5CF6?style=flat-square)<br/>
-![](https://img.shields.io/badge/Hackathons-8B5CF6?style=flat-square)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ============================================================ -->
-<!--  FEATURED PROJECTS                                            -->
-<!-- ============================================================ -->
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=85&section=header&text=FEATURED%20PROJECTS&fontSize=34&fontColor=A78BFA&fontAlignY=55&desc=%3E%20repositories/&descAlignY=78&descSize=15&descColor=6366F1"/>
-
-<details open>
-<summary><b>CareerLens AI</b> — AI-powered resume intelligence platform</summary>
-<br/>
-
-An AI-powered resume analyzer that delivers real-time ATS scoring, NLP-driven feedback, and personalized career-path recommendations.
-
-**Highlights**
-- Resume parsing and structured extraction pipeline
-- ATS scoring engine benchmarked against real job descriptions
-- NLP-based skill-gap detection and career recommendations
-
-`Python` `Django` `NLP`
-
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sivasakthi-15/CareerLensAI)
-
-</details>
-
-<details>
-<summary><b>Sivasakthi POS Billing System</b> — Multi-shop GST billing platform</summary>
-<br/>
-
-A production-ready billing engine for multiple retail outlets, handling GST-compliant invoicing, thermal-printer output, and contractor billing on a MongoDB-backed inventory pipeline.
-
-**Highlights**
-- Multi-shop architecture with isolated inventory and billing state
-- GST-compliant invoice generation and thermal-printer integration
-- Real-time inventory sync across shop and contractor workflows
-
-`React` `Node.js` `MongoDB`
-
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sivasakthi-15/Sivasakthi_Electricals)
-
-</details>
-
-<details>
-<summary><b>Autonomous Vehicles · V2V Communication</b> — Cooperative driving research platform</summary>
-<br/>
-
-A research-grade autonomous driving platform built on ROS2 and CARLA, implementing real-time perception, cooperative driving logic, and vehicle-to-vehicle communication.
-
-**Highlights**
-- ROS2 node architecture for modular perception and control
-- CARLA-simulated environment for cooperative driving scenarios
-- Vehicle-to-vehicle messaging layer for coordinated maneuvers
-
-`ROS2` `OpenCV` `CARLA`
-
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanjay-Mathivanan/Autonomous-Vehicles-with-V2V-Communication-for-Cooperative-Driving)
-
-</details>
-
-<details>
-<summary><b>AI Negotiation Agent</b> — LLM-powered negotiation engine</summary>
-<br/>
-
-A negotiation engine powered by locally-hosted LLMs, simulating strategic, human-like bargaining conversations without any cloud dependency.
-
-**Highlights**
-- Local LLM inference pipeline via Ollama
-- Strategy-aware negotiation prompting
-- Conversational agent design tuned for realistic back-and-forth
-
-`Python` `Ollama` `LLM`
-
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanjay-Mathivanan/AI-NEGOTIATION-AGENT)
-
-</details>
-
-<br/>
-
-<!-- ============================================================ -->
-<!--  TECH STACK                                                   -->
-<!-- ============================================================ -->
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=85&section=header&text=TECH%20STACK&fontSize=34&fontColor=06B6D4&fontAlignY=55&desc=%3E%20installed_packages&descAlignY=78&descSize=15&descColor=6366F1"/>
-
-<details open>
-<summary><b>Languages</b></summary>
-<br/>
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
-![SQL](https://img.shields.io/badge/SQL-A78BFA?style=for-the-badge)
-
-</details>
-
-<details>
-<summary><b>AI, Machine Learning & Computer Vision</b></summary>
-<br/>
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![Scikit](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
-![NLP](https://img.shields.io/badge/NLP-6366F1?style=for-the-badge)
-
-</details>
-
-<details>
-<summary><b>Frontend & Backend</b></summary>
-<br/>
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-
-</details>
-
-<details>
-<summary><b>Robotics & Simulation</b></summary>
-<br/>
-
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge)
-![CARLA](https://img.shields.io/badge/CARLA-A78BFA?style=for-the-badge)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
-
-</details>
-
-<details>
-<summary><b>Databases & Tools</b></summary>
-<br/>
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
-</details>
-
-<br/>
-
-<!-- ============================================================ -->
-<!--  DEVELOPER DASHBOARD                                          -->
-<!-- ============================================================ -->
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=85&section=header&text=DEVELOPER%20DASHBOARD&fontSize=34&fontColor=A78BFA&fontAlignY=55&desc=%3E%20github.live&descAlignY=78&descSize=15&descColor=6366F1"/>
+# 💫 Developer Profile
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sivasakthi-15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=06B6D4&text_color=c9d1d9"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivasakthi-15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9"/>
-
-<img src="https://streak-stats.demolab.com?user=sivasakthi-15&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=06B6D4&currStreakLabel=A78BFA"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sivasakthi-15&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=06B6D4&line=A78BFA&point=ffffff" width="95%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=sivasakthi-15&theme=tokyonight&no-frame=true&margin-w=15&column=7"/>
+| 🎓 Education | 📍 Location | 💼 Status |
+|:------------:|:----------:|:---------:|
+| **B.Tech Artificial Intelligence & Data Science**<br>KGiSL Institute of Technology | **Tamil Nadu, India 🇮🇳** | **Open to Internships & Collaborations** |
 
 </div>
 
-<br/>
+<br>
 
-<!-- ============================================================ -->
-<!--  CURRENTLY BUILDING                                           -->
-<!-- ============================================================ -->
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=85&section=header&text=CURRENTLY%20BUILDING&fontSize=34&fontColor=06B6D4&fontAlignY=55&desc=%3E%20progress.json&descAlignY=78&descSize=15&descColor=6366F1"/>
+| 🚀 Current Focus | 🎯 Career Goal |
+|:----------------:|:--------------:|
+| Building AI-powered Products & Full Stack Applications | Become an AI Engineer & Software Developer creating scalable intelligent systems |
+
+</div>
+
+---
+
+# 🌟 What I'm Passionate About
+
+<div align="center">
+
+🧠 Artificial Intelligence & Machine Learning
+
+💻 Full Stack Web Development
+
+📊 Data Analytics & Visualization
+
+👁️ Computer Vision
+
+⚙️ Backend Development
+
+☁️ Cloud Computing
+
+🚀 Open Source
+
+🏆 Hackathons
+
+</div>
+
+---
+
+# 🚀 Currently Working On
+
+<div align="center">
+
+| Project | Description |
+|---------|-------------|
+| 🤖 **CareerLens AI** | AI-powered Resume Analyzer with ATS Scoring, Skill Gap Analysis & Career Recommendations |
+| 🏪 **Smart POS Billing System** | Multi-Shop GST Billing, Inventory Management & Analytics Dashboard |
+| 🚗 **Autonomous Vehicle Research** | ROS2 + CARLA based Cooperative Driving & Computer Vision |
+| 🤝 **AI Negotiation Agent** | LLM-powered Negotiation System using Ollama |
+
+</div>
+
+---
+
+# 🌱 Currently Learning
+
+<div align="center">
+
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge)
+
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge)
+
+![System Design](https://img.shields.io/badge/System%20Design-06B6D4?style=for-the-badge)
+
+![MLOps](https://img.shields.io/badge/MLOps-6366F1?style=for-the-badge)
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge)
+
+</div>
+
+---
+
+# 💡 Engineering Philosophy
+
+> **Build software that solves real problems.**
+
+Every project I create follows these principles:
+
+- 🎯 Solve meaningful real-world problems
+- 🧠 Apply Artificial Intelligence where it creates value
+- ⚡ Build scalable and maintainable systems
+- 🎨 Focus on clean UI and great user experience
+- 📈 Learn continuously and improve every day
+- 🤝 Write clean, readable, production-quality code
+
+---
+
+<div align="center">
+
+### ⭐ "Code with Purpose • Learn without Limits • Build with Intelligence"
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+> **Transforming innovative ideas into intelligent, scalable, and real-world software solutions.**
+
+</div>
+
+<br>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+# 🤖 CareerLens AI
+
+### AI-Powered Career Intelligence Platform
+
+An intelligent career assistant that analyzes resumes, predicts ATS compatibility, identifies skill gaps, and recommends personalized career paths using Machine Learning and NLP.
+
+### ✨ Key Features
+
+- 📄 AI Resume Parsing
+- 🎯 ATS Score Prediction
+- 📊 Skill Gap Analysis
+- 💼 Career Recommendations
+- 📚 Learning Roadmap Generator
+- 📈 Resume Analytics Dashboard
+
+### 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-8B5CF6?style=flat-square)
+
+<br>
+
+<a href="https://github.com/sivasakthi-15/CareerLensAI">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+# 🏪 Smart POS Billing System
+
+### Intelligent GST Billing & Inventory Platform
+
+A modern business management system designed for multi-shop retail businesses with GST billing, customer management, inventory tracking, analytics, and reporting.
+
+### ✨ Key Features
+
+- 🧾 GST Billing
+- 📦 Inventory Management
+- 👥 Customer Management
+- 📊 Sales Analytics
+- 🖨 Thermal Printer Support
+- 🏪 Multi-Shop Management
+
+### 🛠 Tech Stack
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
+
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
+
+<br>
+
+<a href="https://github.com/sivasakthi-15/Sivasakthi_Electricals">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+# 🚗 Autonomous Vehicles
+
+### Cooperative Driving Research
+
+A research-oriented autonomous driving platform built using ROS2 and CARLA Simulator for Vehicle-to-Vehicle Communication and Computer Vision.
+
+### ✨ Key Features
+
+- 🚘 Autonomous Navigation
+- 👁 Object Detection
+- 📡 V2V Communication
+- 🛰 Path Planning
+- 🤖 ROS2 Architecture
+- 🌍 CARLA Simulation
+
+### 🛠 Tech Stack
+
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square)
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square)
+
+![CARLA](https://img.shields.io/badge/CARLA-06B6D4?style=flat-square)
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square)
+
+<br>
+
+<a href="https://github.com/Sanjay-Mathivanan/Autonomous-Vehicles-with-V2V-Communication-for-Cooperative-Driving">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+# 🤝 AI Negotiation Agent
+
+### LLM-Powered Intelligent Negotiation System
+
+A locally hosted AI negotiation assistant capable of strategic conversations using Large Language Models without cloud dependency.
+
+### ✨ Key Features
+
+- 🤖 Local LLM
+- 🧠 Prompt Engineering
+- 💬 AI Negotiation
+- ⚡ Ollama Integration
+- 🔒 Offline Inference
+- 🎯 Strategy Generation
+
+### 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square)
+
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
+
+![LLM](https://img.shields.io/badge/LLM-A855F7?style=flat-square)
+
+![AI](https://img.shields.io/badge/Artificial_Intelligence-06B6D4?style=flat-square)
+
+<br>
+
+<a href="https://github.com/Sanjay-Mathivanan/AI-NEGOTIATION-AGENT">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📈 Project Highlights
+
+<div align="center">
+
+| 🚀 Project | 🌟 Focus | ⚙️ Status |
+|------------|----------|-----------|
+| CareerLens AI | AI • NLP • Resume Intelligence | 🟢 Active Development |
+| Smart POS Billing | Full Stack • Business Automation | 🟢 Active Development |
+| Autonomous Vehicles | Robotics • Computer Vision | 🟡 Research |
+| AI Negotiation Agent | LLM • Generative AI | 🟡 Experimental |
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 *"Every project is an opportunity to solve a real-world problem through technology."*
+
+</div>
+
+---
+
+# 💻 Tech Stack
+
+<div align="center">
+
+> **Technologies I use to design, build, deploy, and scale intelligent software solutions.**
+
+</div>
+
+---
+
+## 👨‍💻 Programming Languages
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,c,html,css,mysql" />
+
+</div>
+
+<br>
+
+| Language | Experience |
+|----------|------------|
+| 🐍 Python | AI, Machine Learning, Backend Development |
+| ☕ Java | OOP, DSA, Problem Solving |
+| 🟨 JavaScript | Frontend & Backend Development |
+| 💻 C | Programming Fundamentals |
+| 🌐 HTML5 & CSS3 | Responsive Web Development |
+| 🗄 SQL | Database Design & Querying |
+
+---
+
+# 🌐 Frontend Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite,bootstrap" />
+
+</div>
+
+### I build
+
+- Responsive Web Applications
+
+- Interactive User Interfaces
+
+- Modern Single Page Applications
+
+- Dashboard Applications
+
+- Mobile-Friendly Websites
+
+---
+
+# ⚙ Backend Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,django" />
+
+</div>
+
+### Experience
+
+✔ REST APIs
+
+✔ Authentication
+
+✔ CRUD Applications
+
+✔ Business Logic
+
+✔ MVC Architecture
+
+✔ Secure Backend Development
+
+---
+
+# 🤖 Artificial Intelligence & Machine Learning
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+
+</div>
+
+### Working With
+
+- Machine Learning
+
+- Deep Learning
+
+- Computer Vision
+
+- Natural Language Processing
+
+- Resume Intelligence
+
+- Recommendation Systems
+
+- Image Processing
+
+- Predictive Analytics
+
+---
+
+# 🗄 Databases
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
+
+</div>
+
+### Experience
+
+- MongoDB
+
+- PostgreSQL
+
+- MySQL
+
+- Database Design
+
+- Aggregation
+
+- Query Optimization
+
+---
+
+# ☁ Cloud & DevOps
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux,vscode" />
+
+</div>
+
+### Learning & Using
+
+- Docker
+
+- AWS
+
+- Git
+
+- GitHub
+
+- Linux
+
+- VS Code
+
+- Deployment
+
+- Version Control
+
+---
+
+# 🛠 Development Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=postman,npm" />
+
+</div>
+
+### Daily Workflow
+
+- Git
+
+- GitHub
+
+- VS Code
+
+- Postman
+
+- npm
+
+- MongoDB Compass
+
+- Figma
+
+---
+
+# 📊 Technical Expertise
+
+<div align="center">
+
+| Domain | Skills |
+|---------|--------|
+| 🤖 Artificial Intelligence | Machine Learning, Deep Learning, NLP, Computer Vision |
+| 💻 Full Stack Development | React, Node.js, Express.js, Django |
+| 🗄 Database Systems | MongoDB, PostgreSQL, SQL |
+| ⚙ Backend Engineering | REST APIs, Authentication, Business Logic |
+| 📊 Data Analytics | Pandas, NumPy, Data Visualization |
+| 🚗 Robotics | ROS2, CARLA Simulation |
+| 🧠 Problem Solving | Data Structures & Algorithms |
+| ☁ Cloud | Docker, AWS (Learning) |
+
+</div>
+
+---
+
+# 📚 Currently Exploring
+
+<div align="center">
+
+![LLMs](https://img.shields.io/badge/Large%20Language%20Models-A855F7?style=for-the-badge)
+
+![RAG](https://img.shields.io/badge/RAG-06B6D4?style=for-the-badge)
+
+![AI Agents](https://img.shields.io/badge/AI%20Agents-6366F1?style=for-the-badge)
+
+![MLOps](https://img.shields.io/badge/MLOps-FF6F00?style=for-the-badge)
+
+![System Design](https://img.shields.io/badge/System%20Design-0EA5E9?style=for-the-badge)
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge)
+
+</div>
+
+---
+
+# 🚀 What I Love Building
+
+<div align="center">
+
+🧠 AI Applications
+
+🌐 Full Stack Products
+
+📊 Analytics Dashboards
+
+🤖 Intelligent Automation
+
+👁 Computer Vision Systems
+
+💼 Business Solutions
+
+📱 Modern Web Applications
+
+⚡ Scalable Backend Services
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 *"Technology is not just about writing code—it's about building solutions that make a difference."*
+
+</div>
+
+---
+---
+
+# 📊 Developer Dashboard
+
+<div align="center">
+
+> **A snapshot of my coding journey, development activity, and continuous learning.**
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sivasakthi-15&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivasakthi-15&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=sivasakthi-15&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sivasakthi-15&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sivasakthi-15&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4"/>
+
+</div>
+
+---
+
+# 🚀 Developer Snapshot
+
+<div align="center">
+
+| 💡 Focus | 🚀 Current Status |
+|:---------|:-----------------|
+| 🤖 Artificial Intelligence | 🟢 Active |
+| 💻 Full Stack Development | 🟢 Active |
+| 📊 Data Analytics | 🟢 Active |
+| 👁 Computer Vision | 🟡 Learning |
+| ☁ Cloud Computing | 🟡 Learning |
+| ⚙ MLOps | 🟡 Exploring |
+
+</div>
+
+---
+
+# 📈 Current Development Journey
+
+<div align="center">
 
 ```text
-CareerLens AI          ██████████████░░░░░░  70%
-Sivasakthi POS Billing ████████████████░░░░  80%
-Autonomous Vehicles    ██████████░░░░░░░░░░  50%
-AI Negotiation Agent   ████████████░░░░░░░░  60%
+Artificial Intelligence      ████████████████████ 95%
+
+Machine Learning             ██████████████████░ 90%
+
+Full Stack Development       █████████████████░░ 85%
+
+Backend Development          ████████████████░░░ 82%
+
+Computer Vision              ██████████████░░░░░ 75%
+
+Data Structures              ████████████████░░░ 80%
+
+System Design                ████████████░░░░░░░ 65%
+
+Cloud Computing              ██████████░░░░░░░░░ 55%
+
+MLOps                        ████████░░░░░░░░░░░ 45%
 ```
 
-<sub>Progress values are self-reported estimates — update them as each build moves forward.</sub>
+</div>
 
-<br/>
+---
 
-<!-- ============================================================ -->
-<!--  ACHIEVEMENTS                                                 -->
-<!-- ============================================================ -->
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=85&section=header&text=ACHIEVEMENTS&fontSize=34&fontColor=A78BFA&fontAlignY=55&desc=%3E%20credentials/achievements&descAlignY=78&descSize=15&descColor=6366F1"/>
-
-<details>
-<summary><b>View achievements</b></summary>
-<br/>
-
-| Achievement | Description |
-|---|---|
-| 🏅 Built Smart POS Billing System | Developed a full-stack POS application with GST billing, inventory management, customer management, analytics, and reporting. |
-| 🤖 Developed CareerLens AI | Created an AI-powered Resume Analyzer with ATS scoring, skill gap analysis, and career recommendations. |
-| 💻 Active LeetCode Problem Solver | Consistently solving Data Structures & Algorithms problems to strengthen problem-solving skills. |
-| 🚀 Built Multiple Full Stack Projects | Designed and developed scalable web applications using React, Node.js, Express.js, MongoDB, and Python. |
-| 🌟 Open Source Learner | Continuously improving through GitHub projects, hackathons, and modern software development practices. |
-
-
-</details>
-
-<br/>
-
-<!-- ============================================================ -->
-<!--  CERTIFICATES                                                 -->
-<!-- ============================================================ -->
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=85&section=header&text=CERTIFICATES&fontSize=34&fontColor=06B6D4&fontAlignY=55&desc=%3E%20credentials/certificates&descAlignY=78&descSize=15&descColor=6366F1"/>
-
-<details>
-<summary><b>View certificates</b></summary>
-<br/>
-
-| Certificate | Issuer | Year |
-|---|---|---|
-| Data Analyst Internship Certificate | Elevate Labs | 2025 |
-| Full Stack Development Internship | Appin Technology | 2025 |
-| Data Science Internship | SkillCraft Technology | 2025 |
-| HTML Certificate | SoloLearn | 2025 |
-| Python Certificate | SoloLearn | 2025 |
-| SQL Certificate | SoloLearn | 2025 |
-| Java Certificate | SoloLearn | 2025 |
-| JavaScript Certificate | SoloLearn | 2025 |
-| Multiple AI, ML & Data Science Certificates (50+) | Coursera | 2024–2026 |
-| NCC 'B' Certificate | National Cadet Corps (NCC) | 2024 |
-| NCC 'C' Certificate | National Cadet Corps (NCC) | 2025 |
-
-
-
-</details>
-
-<br/>
-
-<!-- ============================================================ -->
-<!--  CODING PROFILES                                              -->
-<!-- ============================================================ -->
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=85&section=header&text=CODING%20PROFILES&fontSize=34&fontColor=A78BFA&fontAlignY=55&desc=%3E%20profiles.json&descAlignY=78&descSize=15&descColor=6366F1"/>
+# 🌟 Developer Highlights
 
 <div align="center">
 
-<a href="https://leetcode.com/Sakthi-15"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0D0D14"/></a>
-<a href="https://www.hackerrank.com/@sivasakthiramas1"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0D0D14"/></a>
-<a href="https://www.codechef.com/users/sivasakthi_15"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0D0D14"/></a>
-</a>
-
-<sub>Usernames are placeholders — swap in your actual handles.</sub>
+| 🚀 Building | 🧠 Learning | 🎯 Goal |
+|:-----------|:-----------|:--------|
+| CareerLens AI | Deep Learning | AI Engineer |
+| Smart POS Billing | Computer Vision | Product Developer |
+| AI Projects | MLOps | Build Scalable AI Systems |
+| Open Source | Cloud Computing | Continuous Growth |
 
 </div>
 
-<br/>
+---
 
-<!-- ============================================================ -->
-<!--  CONTACT                                                      -->
-<!-- ============================================================ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:06B6D4&height=190&section=header&text=Let's%20Build%20Something%20Intelligent&fontSize=28&fontColor=ffffff&fontAlignY=42&desc=%3E%20connect.sh&descAlignY=62&descSize=15&descColor=E0E7FF"/>
+# 📚 Learning Progress
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/sivasakthi-ramasamy-b21ab2281"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0D14"/></a>
-<a href="mailto:sivasakthiramasamy03@gmail.com"><img src="https://img.shields.io/badge/Email-06B6D4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0D14"/></a>
-<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&labelColor=0D0D14"/></a>
-<a href="YOUR_RESUME_LINK"><img src="https://img.shields.io/badge/Resume-6366F1?style=for-the-badge&labelColor=0D0D14"/></a>
+| Technology | Progress |
+|:----------|:--------:|
+| Python | ⭐⭐⭐⭐⭐ |
+| JavaScript | ⭐⭐⭐⭐☆ |
+| React | ⭐⭐⭐⭐☆ |
+| Node.js | ⭐⭐⭐⭐☆ |
+| MongoDB | ⭐⭐⭐⭐☆ |
+| SQL | ⭐⭐⭐⭐☆ |
+| Machine Learning | ⭐⭐⭐⭐☆ |
+| Deep Learning | ⭐⭐⭐☆☆ |
+| Computer Vision | ⭐⭐⭐☆☆ |
+| Docker | ⭐⭐⭐☆☆ |
+| AWS | ⭐⭐☆☆☆ |
+| MLOps | ⭐⭐☆☆☆ |
 
 </div>
 
-<br/>
+---
 
-<hr/>
+# 📅 2026 Roadmap
 
 <div align="center">
-<br/>
 
-<sub>Built with Python, React, coffee, and curiosity.</sub>
+```text
+✅ Smart POS Billing System
+
+🔄 CareerLens AI Version 2
+
+🎯 500+ LeetCode Problems
+
+🎯 AWS Cloud Practitioner
+
+🎯 Docker & Kubernetes
+
+🎯 Open Source Contributions
+
+🎯 AI / Software Engineering Internship
+
+🎯 Production-ready AI Applications
+```
 
 </div>
+
+---
+
+# 📊 GitHub Contributions
+
+<div align="center">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=sivasakthi-15&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+
+</div>
+
+---
+
+# 🏆 What Keeps Me Motivated
+
+<div align="center">
+
+💡 Solve Real Problems
+
+🚀 Build Useful Products
+
+📚 Learn Every Day
+
+🤝 Collaborate & Share
+
+⚡ Write Clean Code
+
+🧠 Keep Improving
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ *"Consistency beats intensity. Small improvements every day lead to extraordinary results."*
+
+</div>
+
+---
