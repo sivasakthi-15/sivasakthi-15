@@ -787,3 +787,353 @@ MLOps                        ████████░░░░░░░░░
 </div>
 
 ---
+
+---
+
+# 🌱 My Development Journey
+
+<div align="center">
+
+> *"Every expert was once a beginner. Every project is a step toward mastery."*
+
+</div>
+
+<br>
+
+```text
+2024
+│
+├── 🎓 Started B.Tech in Artificial Intelligence & Data Science
+│
+├── 💻 Learned Programming Fundamentals
+│
+├── 🌐 Started Web Development Journey
+│
+└─────────────────────────────────────────────►
+
+2025
+│
+├── 🚀 Built Full Stack Applications
+│
+├── 🤖 Started Machine Learning Projects
+│
+├── 📊 Completed Data Analytics Projects
+│
+├── 💼 Completed Multiple Technical Internships
+│
+└─────────────────────────────────────────────►
+
+2026
+│
+├── 🧠 Building CareerLens AI
+│
+├── 🏪 Developing Smart POS Billing System
+│
+├── 🚗 Working on Autonomous Vehicle Research
+│
+├── 🤝 Exploring AI Agents & LLM Applications
+│
+└─────────────────────────────────────────────►
+
+Future
+│
+├── ☁ Master Cloud & MLOps
+├── 🌍 Contribute to Open Source
+├── 💼 Software Engineer
+├── 🤖 AI Engineer
+└── 🚀 Build Products Used by Millions
+```
+
+---
+
+# 🎯 Current Mission
+
+<div align="center">
+
+## 🚀 Building Technology That Solves Real Problems
+
+</div>
+
+I believe software should create measurable value for people and businesses.
+
+My current mission is to combine **Artificial Intelligence**, **Full Stack Development**, and **Data Analytics** to build intelligent products that are scalable, practical, and impactful.
+
+Every project I build helps me improve as an engineer while solving real-world challenges.
+
+---
+
+# 🔥 What I'm Building
+
+<div align="center">
+
+| Project | Focus | Status |
+|:--------:|:-----:|:------:|
+| 🤖 CareerLens AI | AI + NLP + ATS Analysis | 🚀 Active Development |
+| 🏪 Smart POS Billing | Full Stack + Business Automation | 🚀 Active Development |
+| 🚗 Autonomous Vehicle Research | Computer Vision + ROS2 | 🔬 Research |
+| 🤝 AI Negotiation Agent | LLM + Generative AI | 🧪 Experimental |
+
+</div>
+
+---
+
+# 🧠 Areas of Interest
+
+<div align="center">
+
+🤖 Artificial Intelligence
+
+🧠 Machine Learning
+
+👁 Computer Vision
+
+💬 Natural Language Processing
+
+🤖 AI Agents
+
+⚡ Large Language Models
+
+📊 Data Analytics
+
+🌐 Full Stack Development
+
+☁ Cloud Computing
+
+⚙ MLOps
+
+🚗 Robotics
+
+🛰 Autonomous Systems
+
+</div>
+
+---
+
+# 📖 Currently Exploring
+
+<div align="center">
+
+![Generative AI](https://img.shields.io/badge/Generative_AI-A855F7?style=for-the-badge)
+
+![AI Agents](https://img.shields.io/badge/AI_Agents-06B6D4?style=for-the-badge)
+
+![RAG](https://img.shields.io/badge/RAG-8B5CF6?style=for-the-badge)
+
+![System Design](https://img.shields.io/badge/System_Design-2563EB?style=for-the-badge)
+
+![MLOps](https://img.shields.io/badge/MLOps-FF6F00?style=for-the-badge)
+
+![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-0EA5E9?style=for-the-badge)
+
+</div>
+
+---
+
+# 🌍 Open Source Journey
+
+<div align="center">
+
+### My Goal
+
+</div>
+
+I want to become an active contributor to the open-source community by building useful tools, fixing real issues, collaborating with developers worldwide, and sharing knowledge through meaningful projects.
+
+### Areas I'd Love to Contribute
+
+- 🤖 Artificial Intelligence
+- 🌐 Full Stack Development
+- ⚙ Backend Engineering
+- 🐍 Python Projects
+- 📊 Data Science
+- 🧩 Developer Tools
+
+---
+
+# 📚 Learning Philosophy
+
+<div align="center">
+
+> **Learn → Build → Improve → Share → Repeat**
+
+</div>
+
+I enjoy learning by building real projects instead of only studying theory.
+
+Every project teaches me something new, whether it's software architecture, machine learning, backend engineering, or user experience.
+
+Continuous learning and consistent practice are the foundation of my engineering journey.
+
+---
+
+# 🚀 2026 Goals
+
+<div align="center">
+
+| Goal | Progress |
+|:-----|:--------:|
+| 🚀 Complete CareerLens AI | 🟢 In Progress |
+| 🏪 Complete Smart POS Billing System | 🟢 In Progress |
+| 💻 Solve 500+ LeetCode Problems | 🟡 Ongoing |
+| ☁ Learn AWS & Docker | 🟡 Learning |
+| 🌍 Contribute to Open Source | 🔵 Planned |
+| 🤖 Build Production AI Projects | 🟢 Ongoing |
+| 💼 Secure AI / Software Internship | 🎯 Target |
+
+</div>
+
+---
+
+# 💙 Beyond Coding
+
+<div align="center">
+
+💡 Solving Problems
+
+📚 Continuous Learning
+
+🤝 Team Collaboration
+
+🏆 Hackathons
+
+🌱 Self Improvement
+
+🚀 Building Products
+
+☕ Coffee + Code
+
+</div>
+
+---
+
+<div align="center">
+
+## ⭐ *"Success isn't built overnight—it's built commit by commit."*
+
+</div>
+
+---
+
+---
+
+# 🌐 Coding Profiles
+
+<div align="center">
+
+> **I enjoy solving real-world problems and continuously improving my problem-solving skills through competitive programming and coding challenges.**
+
+<br>
+
+<a href="https://leetcode.com/Sakthi-15">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.hackerrank.com/@sivasakthiramas1">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/users/sivasakthi_15">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sivasakthi-15">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 📈 Competitive Programming
+
+<div align="center">
+
+| Platform | Focus |
+|:---------|:------|
+| 💛 LeetCode | Data Structures & Algorithms |
+| 💚 HackerRank | Problem Solving • SQL • Python |
+| 🤎 CodeChef | Competitive Programming |
+| 🖤 GitHub | Open Source & Software Development |
+
+</div>
+
+---
+
+# 💼 Open for Opportunities
+
+<div align="center">
+
+### 🚀 I'm currently looking for
+
+</div>
+
+- AI Engineer Internships
+- Software Development Internships
+- Machine Learning Projects
+- Full Stack Development Projects
+- Open Source Contributions
+- Hackathons
+- Research Collaborations
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="mailto:sivasakthiramasamy03@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sivasakthi-ramasamy-b21ab2281">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sivasakthi-15">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://drive.google.com/file/d/1Ko5FJ6vCSGX8_utgGcIUm-rOQa2tkU2z/view?usp=sharing">
+<img src="https://img.shields.io/badge/Resume-6366F1?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+</a>
+
+<!-- Add this after deploying your portfolio -->
+<!--
+<a href="https://yourportfolio.com">
+<img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge"/>
+</a>
+-->
+
+</div>
+
+---
+
+# 💭 A Quote I Live By
+
+<div align="center">
+
+> ### **"Code with Purpose. Build with Intelligence. Create Real Impact."**
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thank you for visiting my profile!
+
+If you enjoy my work or find my projects helpful,
+
+⭐ **consider giving a star to the repositories you like.**
+
+Let's build something amazing together! 🚀
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=sivasakthi-15&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:06B6D4&height=120&section=footer"/>
+
+</div>
