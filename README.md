@@ -373,51 +373,6 @@ A locally hosted AI negotiation assistant capable of strategic conversations usi
 
 ---
 
-# 🌐 Frontend Development
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite,bootstrap" />
-
-</div>
-
-### I build
-
-- Responsive Web Applications
-
-- Interactive User Interfaces
-
-- Modern Single Page Applications
-
-- Dashboard Applications
-
-- Mobile-Friendly Websites
-
----
-
-# ⚙ Backend Development
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,django" />
-
-</div>
-
-### Experience
-
-✔ REST APIs
-
-✔ Authentication
-
-✔ CRUD Applications
-
-✔ Business Logic
-
-✔ MVC Architecture
-
-✔ Secure Backend Development
-
----
 
 # 🤖 Artificial Intelligence & Machine Learning
 
@@ -471,33 +426,7 @@ A locally hosted AI negotiation assistant capable of strategic conversations usi
 
 ---
 
-# ☁ Cloud & DevOps
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux,vscode" />
-
-</div>
-
-### Learning & Using
-
-- Docker
-
-- AWS
-
-- Git
-
-- GitHub
-
-- Linux
-
-- VS Code
-
-- Deployment
-
-- Version Control
-
----
 
 # 🛠 Development Tools
 
@@ -534,7 +463,6 @@ A locally hosted AI negotiation assistant capable of strategic conversations usi
 | 🤖 Artificial Intelligence | Machine Learning, Deep Learning, NLP, Computer Vision |
 | 💻 Full Stack Development | React, Node.js, Express.js, Django |
 | 🗄 Database Systems | MongoDB, PostgreSQL, SQL |
-| ⚙ Backend Engineering | REST APIs, Authentication, Business Logic |
 | 📊 Data Analytics | Pandas, NumPy, Data Visualization |
 | 🚗 Robotics | ROS2, CARLA Simulation |
 | 🧠 Problem Solving | Data Structures & Algorithms |
