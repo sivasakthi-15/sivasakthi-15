@@ -251,33 +251,7 @@ Negotiation system powered by local language models for intelligent strategy-bas
 
 </div>
 
----
 
-# 🌱 Development Journey
-
-```text
-2024
-│
-├── Started B.Tech AI & Data Science
-├── Learned Programming Fundamentals
-└── Started Web Development
-
-2025
-│
-├── Built Full Stack Applications
-├── Completed Technical Internships
-├── Started Machine Learning Projects
-└── Built CareerLens AI
-
-2026
-│
-├── Building Smart POS Billing System
-├── Exploring Computer Vision
-├── Improving DSA & Problem Solving
-└── Looking for Software & AI Internships
-```
-
----
 
 # 🌐 Coding Profiles
 
