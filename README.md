@@ -233,11 +233,6 @@ Negotiation system powered by local language models for intelligent strategy-bas
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sivasakthi-15&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivasakthi-15&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br><br>
 
 <img src="https://streak-stats.demolab.com?user=sivasakthi-15&theme=tokyonight&hide_border=true"/>
 
