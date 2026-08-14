@@ -7,7 +7,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=850&lines=Sivasakthi+Ramasamy;Artificial+Intelligence+%26+Data+Science+Student;Full+Stack+Developer;Machine+Learning+%7C+Computer+Vision;Building+Real+World+Software" />
 
 <br><br>
-
 <a href="https://drive.google.com/file/d/1Ko5FJ6vCSGX8_utgGcIUm-rOQa2tkU2z/view?usp=sharing">
 <img src="https://img.shields.io/badge/Resume-6366F1?style=for-the-badge&logo=readthedocs&logoColor=white"/>
 </a>
