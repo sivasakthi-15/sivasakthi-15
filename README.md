@@ -52,6 +52,7 @@ Currently, I'm focused on developing production-ready applications, improving my
 
 ---
 
+
 # 🚀 Featured Projects
 
 <table>
