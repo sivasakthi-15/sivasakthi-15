@@ -281,7 +281,7 @@ Negotiation system powered by local language models for intelligent strategy-bas
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://drive.google.com/file/d/1Ko5FJ6vCSGX8_utgGcIUm-rOQa2tkU2z/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1C9GtJiWw1HQA71rD0iobq7mQN4BjHYjj/view?usp=sharing">
 <img src="https://img.shields.io/badge/Resume-6366F1?style=for-the-badge&logo=readthedocs&logoColor=white"/>
 </a>
 
